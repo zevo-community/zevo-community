@@ -19,4 +19,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Zevo AI-Driven Smart Device™
+## Zevo AI-Driven Computer Engineering Ecosystem™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
+
+---

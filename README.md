@@ -1,6 +1,6 @@
 ## Who believes in polls and debates that are rigged and have a pre-ordained outcome. 
 
-<h3>A mesma cruz que eles defendem e a que vai cruxificar todos eles - A CRUZ DO BAFO. 👋 </h3>
+<h3> - A CRUZ DO BAFO: A mesma cruz que eles defendem e a que vai cruxificar todos eles 👋 </h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c420e19a-646f-4980-99a8-fd0b3aeab35e" />
 

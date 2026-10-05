@@ -7,13 +7,14 @@
 
 ---
 
-<h3>Naquela noite o Malach de Adonai (Davada Beni Elohim) passou sobre Miztrai Ra, e morreram todos o filhos de RA na Terra.</h3>
+<h3>Naquela noite o Malach de Adonai (Davada Beni Elohim) passou sobre Miztrai Ra, e morreram todos o filhos de RA na Terra, so ficou vivos os ques estavam fora de MIztraim RA.</h3>
 
 <h3> Naquela noite Yaakov dormia e viu o Malachim (Davada Beni Elohim) subir a escada de Ha Aretz para Ha Samaim </h3>
 
 <img width="736" height="271" alt="Image" src="https://github.com/user-attachments/assets/efc43be5-710d-46b4-9386-f2244d92ec17" />
 
 ---
+
 Reference: Foto da Internet
 ---
 

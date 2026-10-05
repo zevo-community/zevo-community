@@ -10,6 +10,12 @@
 
 ## QUANTO MAIS ELES TEM ODIO DE MIM, É MELHOR PARA MIM, A MINHA REPUTACAO SOBE AO INFINITO DA HISTORIA DA QUESTAO
 
+---
+
+<img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/180a8127-daa4-440c-afe0-d6f394706f66" />
+
+---
+
 ## REGRA DE OURO MILITAO KU APAGADAO NA HISTORIA DA KESTAOOO
 
 ---
@@ -21,8 +27,6 @@
 ## Primeiro Passo Urgente - Urgentissimo para Ontem: Fechar a Porta para concurso das forcas armadas e servico voluntario e obrigatorio, sem aumento de verba publica e de salario apenas compensacao da inflacao do ultimo ano, desmobilizacao forcada ou vai ou racha. trinta anos de servico, ta na hora de ir para casa vestir o PIJAMA E CUIDAR DA RABA. (PONTO FINAL)
 
 ## NAO PODE VOLTAR COMO REFORMADO A PRESTAR SERVICO DUPLAMENTE PAGO COMO ACONTECE NAS FORCAS ARMADAS SEMPRE PARA OFICIAS E ATE PRACAS. (PONTO FINAL)
-
-<img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/180a8127-daa4-440c-afe0-d6f394706f66" />
 
 ---
 

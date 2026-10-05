@@ -1,3 +1,5 @@
+## JA VIRAM ESTE CALCULO 14 DAVADA E 13 NATO, BAFO E 15. PELO JEITO JA COMECOU TUDO ERRADO. HAHAHA
+
 ## Ja viram aquela predicao universal do nato, ainda ta valendo primeiro o bafo e depois o arbitro para validar o caso. AHAHAHAH
 
 ## Primeiro eu vou deixar o Bafo que favoreceu voces cruxificar todos voces como o RA-Man fez com Nato. So depois destes fatos, eu e o alaia e todos nos vamos aparecer para dizer levanta soldado o Urubu vai comer teu rabo. HAHAHA

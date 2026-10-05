@@ -1,5 +1,7 @@
 ## Agindo Adonai que o impedira ??? ahahahahah
 
+## OS SABIOS 33: EI PISITE QUEM MORREU AOS 33 ANOS CRUXIFICADO E QUEIMADO DEPOIS DE ACEITAR SER CONTRADITADO PELO HA-MAN, O SEU DIABLO: RESPONSA NATO
+
 ## ESQUECERAM QUE OS AZUIS JA SAIRAM DA QUESTAO, JUNTO COM NATAO ???? AHAHAHAH
 
 ## The Big Question: O que tem a ver nois verdao com isso negao??? (ponto final)

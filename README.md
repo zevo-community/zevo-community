@@ -12,11 +12,9 @@
 
 ---
 
-<img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/180a8127-daa4-440c-afe0-d6f394706f66" />
+## COLOCOU QUESTAO RECEBE A MEDALHA DA ALFINETACAO DA DAVADAO ZAITAZAO O VERDADEIRO MESSIAS NA HISTORIA DA QUESTAO, PODE CONTRADIAR E DE QUE IESUS BOLAO, VAI SER ALFINETADO A APARECER NA HISTORIA DA QUESTAO. (PONTO FINAL)
 
 ---
-
-## COLOCOU QUESTAO RECEBE A MEDALHA DA ALFINETACAO DA DAVADAO ZAITAZAO O VERDADEIRO MESSIAS NA HISTORIA DA QUESTAO, PODE CONTRADIAR E DE QUE IESUS BOLAO, VAI SER ALFINETADO A APARECER NA HISTORIA DA QUESTAO. (PONTO FINAL)
 
 ## REGRA DE OURO MILITAO KU APAGADAO NA HISTORIA DA KESTAOOO. (PONTO FINAL)
 
@@ -29,6 +27,8 @@
 ## Primeiro Passo Urgente - Urgentissimo para Ontem: Fechar a Porta para concurso das forcas armadas e servico voluntario e obrigatorio, sem aumento de verba publica e de salario apenas compensacao da inflacao do ultimo ano, desmobilizacao forcada ou vai ou racha. trinta anos de servico, ta na hora de ir para casa vestir o PIJAMA E CUIDAR DA RABA. (PONTO FINAL)
 
 ## NAO PODE VOLTAR COMO REFORMADO A PRESTAR SERVICO DUPLAMENTE PAGO COMO ACONTECE NAS FORCAS ARMADAS SEMPRE PARA OFICIAS E ATE PRACAS. (PONTO FINAL)
+
+<img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/180a8127-daa4-440c-afe0-d6f394706f66" />
 
 ---
 

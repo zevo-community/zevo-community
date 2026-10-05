@@ -1,4 +1,8 @@
-## Battom sempre é boom
+## Lipstick is always good.
+
+## Batom é sempre bom.
+
+---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c6bee0a-c3a1-499d-8ec6-8160abca4591" />
 

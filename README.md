@@ -14,6 +14,8 @@
 
 ## O PADRAO E PE PETRO, OU AREIA DE PRAIA OU CAMUFLADO
 
+<img width="544" height="544" alt="Image" src="https://github.com/user-attachments/assets/c21f1393-a6a4-4eaf-9590-8439516985e0" />
+
 <img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/d8dd8f57-5937-4547-946f-a496ad52ce7e" />
 
 ---

@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Zava Popular Star™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/04f70e34-b496-4ddc-b98c-814519f7fd6a" />
+
 ## Zevo AI-Driven Smart Popular™ 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2941644a-3ea0-4ae1-ab79-dfe49a666075" />

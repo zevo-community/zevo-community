@@ -1,6 +1,6 @@
-## Zevo AI-Driven Mascot Team™
+## Zevo AI-Driven Computer Engineering Ecosystem™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/43efc5e6-0529-486b-a6eb-0a330f5487bc" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
 
 ---
 
@@ -18,10 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-## Zevo AI-Driven Computer Engineering Ecosystem™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
 
 ## Zevo AI-Driven Smart Cook™  
 

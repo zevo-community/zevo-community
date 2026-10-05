@@ -1,6 +1,6 @@
 ## Agindo Adonai que o impedira ??? ahahahahah 
 
-## OS sabidos acha que é Adonai eu Davada o Alaia ou nos de nos de nos. Que Empede o Nato Banach E Ra-Man e E o Nato empede o Ha-man de sair do seu barraco. Ja falei Sobre isso. Contradição no Sonic Prime. The Nato (Sonic) E Ra-Man (The Shadow)
+## OS sabidos acha que é Adonai eu Davada o Alaia ou nos de nos de nos. Que Empede o Nato Banach E Ra-Man e E o Nato empede o Ha-man de sair do seu barraco. Ja falei Sobre isso. contradição no Sonic Prime. The Nato (The Sonic) and Ra-Man (The Shadow).
 
 ## Todos os que aceitam ser contraditados ficam impedidos de serem elevados igual ao NATO, pois o portao da reencarnacao e da elevacao estao fechado. Gostaria de saber dos sabidos como vai voltar o bafo cristum, tum,tum. IESUS BOLA MUCHA FILE DE BAFO.
 

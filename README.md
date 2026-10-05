@@ -3,7 +3,7 @@
 ---
 <h3>Melech HaMaschia Ba and Nabi Alaia Beni Tisba - Poder continuar contradita, não sabem os brinquedos que deixem para vocês... HA, HA, HA (TENTA ME CAPTURAR, TENTA ME CAPTURAR, TENTA ME CAPTURAR)</h3>
 
-<H3>Eu Davada Beni Elohim - E o proprio Adonai manisfeto como um ser elevado, eles contraditam que o iesus bola mucha. HAHAHA </H3>
+<H3>Eu Davada Beni Elohim - O proprio Adonai manisfeto como um ser elevado, eles contraditam que o iesus bola mucha. HAHAHA </H3>
 
 ---
 

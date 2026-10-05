@@ -1,3 +1,5 @@
+## Primeiro eu vou deixar o Bafo que favoreceu voces cruxificar todos voces como o RA-Man fez com Nato.
+
 ## Achamavam que eu e o alaia viramos como pato vos visitar???
 
 ## Melech Hamachia Nebua BA - Que peita maschia morre™

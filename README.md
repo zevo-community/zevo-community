@@ -1,12 +1,12 @@
 ## Agindo Adonai que o impedira ??? ahahahahah
 
+## The Big Question: O que tem a ver nois verdao com isso negao??? (ponto final)
+
 ## ESQUECERAM QUE OS AZUIS JA SAIRAM DA QUESTAO, JUNTO COM NATAO ???? AHAHAHAH
 
 ---
 
 ## OS SABIOS 33: EI PISITE QUEM MORREU AOS 33 ANOS CRUXIFICADO E QUEIMADO DEPOIS DE ACEITAR SER CONTRADITADO PELO HA-MAN, O SEU DIABLO: RESPONSA NATO
-
-## The Big Question: O que tem a ver nois verdao com isso negao??? (ponto final)
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c420e19a-646f-4980-99a8-fd0b3aeab35e" />
 

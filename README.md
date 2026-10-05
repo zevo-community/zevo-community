@@ -20,5 +20,3 @@ Here are some ideas to get you started:
 -->
 
 ## Zevo AI-Driven Smart Device™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/02d42c9d-bd26-4b3e-8707-5829236e3048" />

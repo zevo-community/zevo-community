@@ -1,3 +1,7 @@
+# Davada Beni Elohim zero one pin pin pin
+
+---
+
 # Not even Ha-Man himself can defeat me, for I refused to contradict the mighty Father Adonai.
 
 # Nem mesmo o próprio Ha-Man pode me derrotar, pois recusei-me a contradizer contra o poderoso Papai Adonai.

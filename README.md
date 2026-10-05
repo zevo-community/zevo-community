@@ -2,6 +2,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/43efc5e6-0529-486b-a6eb-0a330f5487bc" />
 
+---
 
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Zevo AI-Driven Smart Device™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/02d42c9d-bd26-4b3e-8707-5829236e3048" />

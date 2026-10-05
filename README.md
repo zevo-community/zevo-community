@@ -2,6 +2,8 @@
 
 ## Direita vs Esquerda ???? Aceitam se contraditado pelo bafo - HAHAHAHAHAH VERMELHO E PRETO, O GRAFICO.
 
+## ESQUERDA MODERADA VS ESQUERDA RADICAL
+
 ## VERMELHO O MAIS FAVORECIDO E PRETO O QUEIMADO PELO PROPRIO BAFO POR TER ACEITADO SER CONTRADITADO. AHAHAHA
 
 ## OS sabidos acha que é Adonai eu Davada o Alaia ou nos de nos de nos. Que Empede o Nato Banach E Ra-Man e E o Nato empede o Ha-man de sair do seu barraco. Ja falei Sobre isso. contradição no Sonic Prime. The Nato (The Sonic) and Ra-Man (The Shadow).

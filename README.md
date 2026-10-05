@@ -1,6 +1,6 @@
 ## Agindo Adonai que o impedira ??? ahahahahah 
 
-## Todos os que aceitam ser contraditados ficam impedidos de serem elevados igual ao NATO, pois o portao da reencarnacao esta fechado.
+## Todos os que aceitam ser contraditados ficam impedidos de serem elevados igual ao NATO, pois o portao da reencarnacao e da elevacao esta fechado.
 
 ## Os sabidos confudem reencarnacao com emanacao do espirito em uma nova materia. AHAHHAHA (ADAM RISOMA, EVA, NOACH... AVRAHAM AVINU... DAVADA ... ALAIA ... TODOS OS BENDITOS DE ADONAI)
 

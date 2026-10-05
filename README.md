@@ -1,3 +1,5 @@
+## Ja viram aquela predicao universal do nato, ainda ta valendo primeiro o bafo e depois o arbitro para validar o caso. AHAHAHAH
+
 ## Primeiro eu vou deixar o Bafo que favoreceu voces cruxificar todos voces como o RA-Man fez com Nato. So depois destes fatos, eu e o alaia e todos nos vamos aparecer para dizer levanta soldado o Urubu vai comer teu rabo. HAHAHA
 
 ## Achamavam que eu e o alaia viramos como pato vos visitar???

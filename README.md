@@ -8,6 +8,8 @@
 
 ---
 
+## It is always good to dive in the open sea.
+
 ## É sempre bom mergulhar em mar aberto.
 
 ---

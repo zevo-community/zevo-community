@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 
 ---
 
+## Zavateinu Metal Heroes™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2ff2d556-79e6-4336-911d-9d8660b70f11" />
+
 ## Zavateinu Combat - Toys for Adults™ 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fa73ac3c-6e1c-4552-91a0-adbefeab64f8" />
-
-## Metal Heroes™ 
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2ff2d556-79e6-4336-911d-9d8660b70f11" />
 
 ## Zava Popular Star™ 
 

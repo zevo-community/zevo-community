@@ -1,5 +1,7 @@
 ## Agindo Adonai que o impedira ??? ahahahahah 
 
+## The Big Question: O que tem a ver nois verdao com isso negao??? (ponto final)
+
 ## ESQUECERAM QUE OS AZUIS JA SAIRAM DA QUESTAO, JUNTO COM NATAO ???? AHAHAHAH
 
 ## O Grafico e para ser Coral Falsa ???? Verdadeira: Preto e Vermelho

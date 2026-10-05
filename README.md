@@ -6,6 +6,10 @@
 
 <img width="549" height="364" alt="Image" src="https://github.com/user-attachments/assets/11a2aee7-0504-4f17-8c18-d42ad4481a35" />
 
+## Os Sabidos do 33: Da quanto no numerario : Eu acho que da 15 a 12. ahahahah
+
+<img width="671" height="298" alt="Image" src="https://github.com/user-attachments/assets/edd84aef-47fe-4286-b5de-f7e480a29881" />
+
 ## Deu quanto no numerario : Vixe era para ser 15 a 12. ahahahah
 
 <img width="1200" height="876" alt="Image" src="https://github.com/user-attachments/assets/5ace2524-2e43-4bed-92f4-7ed9e8ec3a01" />

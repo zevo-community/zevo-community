@@ -1,3 +1,7 @@
+## Deu quanto no numerario : Vixe era para ser 15 a 12. ahahahah
+
+<img width="1200" height="876" alt="Image" src="https://github.com/user-attachments/assets/5ace2524-2e43-4bed-92f4-7ed9e8ec3a01" />
+
 ## Agindo Adonai que o impedira ??? ahahahahah 
 
 ## ESQUECERAM QUE OS AZUIS JA SAIRAM DA QUESTAO, JUNTO COM NATAO ???? AHAHAHAH

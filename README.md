@@ -2,6 +2,8 @@
 
 ## The Big Question: O que tem a ver nois verdao com isso negao??? (ponto final)
 
+## Responsa: QUESTION VS QUESTION OF BAFO DO DIABLO
+
 ## ESQUECERAM QUE OS AZUIS JA SAIRAM DA QUESTAO, JUNTO COM NATAO ???? AHAHAHAH
 
 ## O Grafico e para ser Coral Falsa ???? Verdadeira: Preto e Vermelho

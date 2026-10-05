@@ -1,7 +1,7 @@
 ## Melech Hamachia Nebua BA - Que peita maschia morre™
 
 ---
-<h3>Melech HaMaschia Ba and Nabi Beni Tisba - Poder continuar contradita, não sabem os brinqeudos que deixem para vocês...</h3>
+<h3>Melech HaMaschia Ba and Nabi Alaia Beni Tisba - Poder continuar contradita, não sabem os brinqeudos que deixem para vocês...</h3>
 
 ---
 

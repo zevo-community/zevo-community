@@ -1,6 +1,8 @@
 ## Agindo Adonai que o impedira ??? ahahahahah 
 
-## JA VIRAM ESTE CALCULO 14 DAVADA E 13 NATO, BAFO 15 (5 - 5 - 5) E RA-MAN 18 (6 - 6 - 6). PELO JEITO JA COMECOU TUDO ERRADO. HAHAHA
+## QUERIAM MATAR O CABO NATO (BANACH) / DAVADA /  ALAIA : A FORCA QUE ERA PARA MODECHAI SE VOLTOU CONTRA HA-MAN. ENTRE OUTRO CASOS
+
+## JA VIRAM ESTE CALCULO LADO VERDE: 14 DAVADA E 13 NATO. LADO VERMELHO: BAFO 15 (5 - 5 - 5) E RA-MAN 18 (6 - 6 - 6). PELO JEITO JA COMECOU TUDO ERRADO. HAHAHA
 
 ## Ja viram aquela predicao universal do nato, ainda ta valendo primeiro o bafo e depois o arbitro para validar o caso. AHAHAHAH
 

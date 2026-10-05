@@ -2,6 +2,8 @@
 
 ## The Big Question: O que tem a ver nois verdao com isso negao??? (ponto final)
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c420e19a-646f-4980-99a8-fd0b3aeab35e" />
+
 ## Responsa: QUESTION VS QUESTION OF BAFO DO DIABLO
 
 ## ESQUECERAM QUE OS AZUIS JA SAIRAM DA QUESTAO, JUNTO COM NATAO ???? AHAHAHAH

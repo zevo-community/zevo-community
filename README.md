@@ -1,3 +1,7 @@
+## Battom sempre é boom
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8c6bee0a-c3a1-499d-8ec6-8160abca4591" />
+
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,4 +1,6 @@
----
+## CEO Davada Beni Zaita - Zevo Technologies Corporation™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f7af453b-0ef8-439b-a3f5-56804d7d7cc6" />
 
 ## Zevo AI-Driven Computer Engineering Ecosystem™
 

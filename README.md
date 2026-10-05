@@ -16,9 +16,9 @@
 
 ## POSTO OFICIAL MAXIMO CORONEL E POSTO PARA PRACA MAXIMO SUBTENENTE, INICIA NA ULTIMA PATENTE PROFISSIONAL DE PRACA E OFICIAL, REMUNERACAO FEDERAL E POR TEMPO INDERTERMINADO PODENDO SER AFASTADO APOS CPI QUE OBTEVE O COMPORTAMENTO INSUFICIENTE PARA PRACA E OFFICIAL. (EXPULSO - TRANSITADO E JULGADO - FICHA SUJA)
 
-## Primeiro Passo Urgente - Urgentissimo para Ontem: Fechar a Porta para concurso das forcas armadas e servico voluntario e obrigatorio, desmobilizacao forcada ou vai ou racha. trinta anos de servico, ta na hora de ir para casa vestir o PIJAMA E CUIDAR DO NETINHO. (PONTO FINAL)
+## Primeiro Passo Urgente - Urgentissimo para Ontem: Fechar a Porta para concurso das forcas armadas e servico voluntario e obrigatorio, sem aumento e verba publica e ajuste de salario apenas para compensar a inflacao do ultimo ano, desmobilizacao forcada ou vai ou racha. trinta anos de servico, ta na hora de ir para casa vestir o PIJAMA E CUIDAR DO NETINHO. (PONTO FINAL)
 
-## NAO PODE VOLTAR COMO REFORMADO A PRESTAR SERVICO DUPLAMENTE PAGO COMO ACONTECE NAS FORCAS ARMADAS SEMPRE PARA OFICIAS E ATE PRACAS
+## NAO PODE VOLTAR COMO REFORMADO A PRESTAR SERVICO DUPLAMENTE PAGO COMO ACONTECE NAS FORCAS ARMADAS SEMPRE PARA OFICIAS E ATE PRACAS. (PONTO FINAL)
 
 <img width="739" height="415" alt="Image" src="https://github.com/user-attachments/assets/180a8127-daa4-440c-afe0-d6f394706f66" />
 

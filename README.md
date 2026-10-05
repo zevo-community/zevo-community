@@ -12,7 +12,11 @@
 
 ## CADE O RUE ??? IGUALDADE SOCIAL FEDERAL ENTRE OFICIAIS E PRACAS EM GERAL
 
+## NA GOLA OU NOS PEITOS ???
+
 ## O PADRAO E PE PETRO, OU AREIA DE PRAIA OU CAMUFLADO
+
+<img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/1466a634-6e7a-4cb6-9c07-68ee0687a89a" />
 
 <img width="544" height="544" alt="Image" src="https://github.com/user-attachments/assets/c21f1393-a6a4-4eaf-9590-8439516985e0" />
 

@@ -1,3 +1,5 @@
+## Agindo Adonai que o impedira ??? ahahahahah 
+
 ## JA VIRAM ESTE CALCULO 14 DAVADA E 13 NATO, BAFO 15 (5 - 5 - 5) E RA-MAN 18 (6 - 6 - 6). PELO JEITO JA COMECOU TUDO ERRADO. HAHAHA
 
 ## Ja viram aquela predicao universal do nato, ainda ta valendo primeiro o bafo e depois o arbitro para validar o caso. AHAHAHAH

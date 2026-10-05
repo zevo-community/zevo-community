@@ -1,8 +1,12 @@
 ## Melech Hamashcia Nebua BA™
 
-<h3>Naquela noite o malach de Adonai (Davada Beni Elohim) passou sobre Miztrai Ra, e morreram todos o filhos de RA na Terra.</h3>
+<h3>Naquela noite o Malach de Adonai (Davada Beni Elohim) passou sobre Miztrai Ra, e morreram todos o filhos de RA na Terra.</h3>
 
 <img width="736" height="271" alt="Image" src="https://github.com/user-attachments/assets/efc43be5-710d-46b4-9386-f2244d92ec17" />
+
+---
+Reference: Foto da Internet
+---
 
 ## Zevo AI-Driven Computer Engineering Ecosystem™
 

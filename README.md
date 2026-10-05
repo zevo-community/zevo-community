@@ -2,12 +2,6 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f7af453b-0ef8-439b-a3f5-56804d7d7cc6" />
 
-## Zevo AI-Driven Computer Engineering Ecosystem™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
-
----
-
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,6 +17,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## Zavateinu Combat - Toys for Adults™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fa73ac3c-6e1c-4552-91a0-adbefeab64f8" />
+
 ## Zava Popular Star™ 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/04f70e34-b496-4ddc-b98c-814519f7fd6a" />
@@ -35,4 +35,6 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c0cb0b35-e4ca-4747-ad89-f1c28e3e4580" />
 
----
+## Zevo AI-Driven Computer Engineering Ecosystem™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />

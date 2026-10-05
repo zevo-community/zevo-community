@@ -1,4 +1,4 @@
-## Who believes in polls and debates that are rigged and have a pre-ordained outcome. 
+## Those who believe in polls, debates, and results rigged by a monkey. 
 
 <h3>A CRUZ DO BAFO: A mesma cruz que eles defendem e a que vai cruxificar todos eles </h3>
 

@@ -1,6 +1,6 @@
-# You think you can beat me, try to capture me? HAHAHA! I’m leaving behind a bunch of nasty little surprises—a whole heap of "toys"—for all of you. After all, I never betrayed Adonai Tzevaot—the Big Boss—just to side with some invading ape.
+# They think they can defeat me, try to capture me—HAHAHA—I’ll leave a nasty surprise and plenty of little toys for all of you, for I did not go against Father Adonai Tzevaot in favor of that satanic monkey.
 
-# Acham que podem me vencer, tentar me capturar, HAHAHA, estaca farca vou deixar e mutios brinquedinhos para todos voces, pois eu nao me contraditei contra Adonai Tzevaot o PAPAI em favor de macaco invasor
+# Acham que posso me vencer, tentar me capturar, HAHAHA, estaca farca vou deixar e mutios brinquedinhos para todos voces, pois eu não me contraditei contra Papai Adonai Tzevaot em favor do macaco satanas
 
 ---
 

@@ -1,3 +1,8 @@
+## Zevo AI-Driven Mascot Team™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/43efc5e6-0529-486b-a6eb-0a330f5487bc" />
+
+
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

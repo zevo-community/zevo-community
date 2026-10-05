@@ -1,5 +1,9 @@
 ## Agindo Adonai que o impedira ??? ahahahahah 
 
+## Todos os que aceitam ser contraditados ficam impedidos de serem elevados igual ao NATO, pois o portao da reencarnacao esta fechado.
+
+## Os sabidos confudem reencarnacao com emanacao do espirito em uma nova materia. AHAHHAHA
+
 ## Tem Sabidos que nada entende, Eu fisicamente estou em algum lugar, e minhas elevacoes ao infinito podem estar em qualquer lugar no passado, no presente e no futuro. A assim como foi concedido ao NATO Banach Elevacoes para agir eu seu favor e dos seus ao infinito por ter sido redimido, no absismo do absolutismo do mundo do HA-MAN. Eg: A alegoria do carro do Ha-man e Nato como convidado, como a SAUNA e N caos...
 
 ## QUERIAM MATAR O CABO NATO (BANACH) / DAVADA /  ALAIA : A FORCA QUE ERA PARA MODECHAI SE VOLTOU CONTRA HA-MAN. ENTRE OUTROS N CASOS

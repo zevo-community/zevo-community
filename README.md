@@ -1,4 +1,4 @@
-## JA VIRAM ESTE CALCULO 14 DAVADA E 13 NATO, BAFO E 15. PELO JEITO JA COMECOU TUDO ERRADO. HAHAHA
+## JA VIRAM ESTE CALCULO 14 DAVADA E 13 NATO, BAFO 15 E RA-MAN 18. PELO JEITO JA COMECOU TUDO ERRADO. HAHAHA
 
 ## Ja viram aquela predicao universal do nato, ainda ta valendo primeiro o bafo e depois o arbitro para validar o caso. AHAHAHAH
 

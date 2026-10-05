@@ -1,4 +1,4 @@
-## Melech Hamashcia Nebua BA™
+## Melech Hamachia Nebua BA - Que peita maschia morre™
 
 <h3>Naquela noite o Malach de Adonai (Davada Beni Elohim) passou sobre Miztrai Ra, e morreram todos o filhos de RA na Terra.</h3>
 

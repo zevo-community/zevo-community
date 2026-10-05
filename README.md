@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Zevo: AI-Driven Smart Cook™  
+## Zevo AI-Driven Smart Cook™  
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9046020e-c3fb-4858-94ae-a1038f073ab4" />
 

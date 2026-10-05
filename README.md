@@ -1,3 +1,9 @@
+## Did they end up in a KU? Just like Nato and Bata back in the day—and they still claim they’ll be saved by the "Cross of the Bafo."
+
+## Tomarao ou nao tomaram no ku, iguazinho o nato e a bata no passado, ainda dizem que vão ser salvos pela cruz do bafo.
+
+---
+
 ## Those who believe in polls, debates, and results rigged by a monkey. 
 
 <h3>A CRUZ DO BAFO: A mesma cruz que eles defendem e a que vai cruxificar todos eles </h3>

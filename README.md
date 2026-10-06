@@ -1,8 +1,14 @@
-## Zevo Technologies Corporation - CEO Davada Beni Zaita 
-
-### Holland Superhero - Episode Sousa Man™
+## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
 ---
+
+### Before transformation Sousa Man™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/26f2b3fe-9d75-470b-b794-d741ca637975" />
+
+---
+
+### Holland Superhero - Episode Sousa Man™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1de959a5-7116-4d88-af23-496735e3b4d7" />
 

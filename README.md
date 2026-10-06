@@ -2,6 +2,12 @@
 
 ---
 
+### The Chavez Family Animation™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bcc58bdb-76ab-423f-af76-885fe1a93c9c" />
+
+---
+
 ### Sousa Man, Before Elevate™
 
 <h3>The young boy "Sousa Man" shouts "elevate" and immediately transforms into Superman.</h3>

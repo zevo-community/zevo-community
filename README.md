@@ -1,4 +1,8 @@
-## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
+## Zevo Technologies Corporation - CEO Davada Beni Zaita™
+
+## Davada Zaita on Berlin 2009
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/38653c53-8a8d-4b96-98b5-21d48a9abe80" />
 
 ## Davada Zaita vs Hiroshi Umiak - Training Combat on Japan 2009
 

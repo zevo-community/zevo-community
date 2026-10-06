@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 ## Superhero Animation: The Green Man 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1145474a-0a1f-4873-8815-2f4f776555a8" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d24ee89d-8011-4326-8718-385818bb050c" />
 
 

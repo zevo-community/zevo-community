@@ -2,6 +2,10 @@
 
 ---
 
+### Temos todas as tampinhas da coleção que nao queima o feijão com negão
+
+---
+
 ### Juliana Feijão - A melhor mulher do mundo é a que não queima o feijão com negão
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/035841b4-19dd-46d2-aaad-9e2dcfa13ab2" />

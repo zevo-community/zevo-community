@@ -2,6 +2,8 @@
 
 ### The Bunglers Quartet on small plastic cup™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0b948d98-702a-45ca-b6d5-5b80a8ee5c96" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fa038f92-6268-45bb-b07e-b2309aac7a60" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/733d5bc2-172e-48dc-b134-e16a3c2ec586" />

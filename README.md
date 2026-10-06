@@ -2,6 +2,9 @@
 
 ---
 
+### Davadona Caseira - A melhor mulher do mundo é a que não caga a casa interia
+
+
 ### Davadona Safadeira - A melhor mulher do mundo é que poupa a noite inteira  
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/760b77c9-9fbc-438d-b58f-6a3a09c3ca7a" />

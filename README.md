@@ -2,11 +2,11 @@
 
 ---
 
-### Davadao Safadao™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f91820d6-c1c6-45cb-9b67-1cab128501bb" />
+### Davadao Safadao - Sonhei que estava caganho e molhei o traviseiro™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4285f314-91b9-4f07-b72c-5cdcc3b44084" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f91820d6-c1c6-45cb-9b67-1cab128501bb" />
 
 ---
 

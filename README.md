@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Malachim Ba-Hakdosim (O guardioes do portao)
+## Malachim Ba-Hakdosim (Os guardiões do portal da eternidade)
 
 ## Super Hero Elevation - Samurai Shadow - Takeda Sato
 

@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## The "Guava Worm" Program - “FM Radio Nation News 140.7.”
+## The "Guava Worm" Program - “FM Radio National News 140.7.”
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee6a75ea-c885-407e-ad04-e764e470f938" />
 

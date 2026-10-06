@@ -2,6 +2,10 @@
 
 ---
 
+### Juliana Feijão - A melhor mulher do mundo é a que não o feijão negão
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/035841b4-19dd-46d2-aaad-9e2dcfa13ab2" />
+
 ### Tatiana Boladeira - A melhor mulher do mundo é a que cavalga a noite inteira
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b549ec1d-a88c-4c5d-b2b8-c4978c09ef4a" />

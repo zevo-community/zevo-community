@@ -19,39 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Who is Nato Banach??? The Gate of Mercy of Adonai Tzevaot
+## Zavata Assistance Robots: Made in Home Lab
 
-<h3>Quem é o Nato Banach??? A porta da misericórdia de Adonai Tzevaot</h3>
-
----
-
-## Malachim Ba-Hakdosim (Os guardiões do portal da eternidade)
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fa873987-5945-4d1e-9f99-2cc4e126d387" />
-
-## Super Hero Elevation - Samurai Shadow - Takeda Sato
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/beaf2681-36f8-4ce8-9657-27724a1b8142" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60d9c6e3-2043-44da-9802-04a2c0fbe5e7" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/31f2d5b7-c391-4307-b875-5dbd06971608" />
-
-## Cosplay Metal Heroes™
-
-<h3>Takeda Sato - Kamen Rider X</h3>
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a22e740-435a-42d0-98b3-0d380727d68e" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5a38c842-1f64-4144-814e-f264f05d5301" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f64a4a11-525d-4dc2-94e2-70ed8f49b9ad" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a284f557-577c-40c8-8555-1e34888094f5" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7aacda62-e65e-4e80-8ec9-a27b80ca9173" />
 
 ## Zavateinu Metal Heroes™ 
 

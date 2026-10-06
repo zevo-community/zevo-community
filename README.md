@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Zavateinu Toys for Adults™
+## Cosplay Metal Heroes™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a284f557-577c-40c8-8555-1e34888094f5" />
 
 ## Zavateinu Metal Heroes™ 
 

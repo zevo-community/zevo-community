@@ -4,6 +4,8 @@
 
 ### Before transformation Sousa Man™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8dee10fd-8a7c-4270-b520-25141b87bfbe" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/26f2b3fe-9d75-470b-b794-d741ca637975" />
 
 ---

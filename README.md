@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ---
 
-## Zavata Assistive Robots: Manufactured in a home laboratory
+## Zavata Assistive Robots: Manufactured in home laboratory
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b70c1195-2018-400a-99ac-8d00298d606d" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a822572a-995e-4487-a0cb-a4ff437d6a03" />
 

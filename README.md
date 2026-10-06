@@ -4,7 +4,7 @@
 
 ### Before transformation Sousa Man™
 
-<h3>O jovem garato sousa man, grita elevar, imediatamente transforma-se no superman</h3>
+<h3>The young boy shouts "Superman!" and immediately transforms into Superman./h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8dee10fd-8a7c-4270-b520-25141b87bfbe" />
 

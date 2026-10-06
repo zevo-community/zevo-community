@@ -6,6 +6,10 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f91820d6-c1c6-45cb-9b67-1cab128501bb" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4285f314-91b9-4f07-b72c-5cdcc3b44084" />
+
+---
+
 ### The Jango - Xerife - Davada Beni Zaita - A turma do chapelão™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee973860-9b54-4c17-a05f-98b563def55e" />

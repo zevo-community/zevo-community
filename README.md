@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Zavateinu Toys for Adults
+## Zavateinu Toys for Adults™
 
 ## Zavateinu Metal Heroes™ 
 

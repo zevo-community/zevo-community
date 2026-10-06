@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## The "Guava Worm" Program - “FM Radio National News 140.7.”
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee6a75ea-c885-407e-ad04-e764e470f938" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6754eb52-fccc-4fb5-824c-24621a582575" />
 

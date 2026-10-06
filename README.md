@@ -17,6 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Zavata Animation: Black Corcel 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c545b78b-b040-4311-9d54-7617428ddd39" />
+
 ---
 
 ## Zavata Assistive Robots: CAD Architectural Design

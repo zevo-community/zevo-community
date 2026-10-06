@@ -1,5 +1,9 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
+### Diabolic Tampa™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3e3956db-8d61-47a9-b7c9-6cc28e7b9f18" />
+
 ### The Bunglers Quartet on small plastic cup™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0b948d98-702a-45ca-b6d5-5b80a8ee5c96" />

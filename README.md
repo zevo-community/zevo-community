@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Ha Malachim Bakodesh (O guardioes do portao)
+## Ha Malachim Bakidosim (O guardioes do portao)
 
 ## Super Hero Elevation - Samurai Shadow - Takeda Sato
 

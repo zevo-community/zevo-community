@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 
 ## Malachim Ba-Hakdosim (Os guardiões do portal da eternidade)
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fa873987-5945-4d1e-9f99-2cc4e126d387" />
+
 ## Super Hero Elevation - Samurai Shadow - Takeda Sato
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/beaf2681-36f8-4ce8-9657-27724a1b8142" />

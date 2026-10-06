@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 <h3>Takeda Sato - Kamen Rider X</h3>
 
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a22e740-435a-42d0-98b3-0d380727d68e" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5a38c842-1f64-4144-814e-f264f05d5301" />

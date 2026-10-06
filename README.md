@@ -2,7 +2,7 @@
 
 ### The bunglers™
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec918e5e-c262-4bdc-bc6c-a597bdd934ce" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/95c9fe14-4545-4875-8051-ff1587f87f78" />
 
 ---
 

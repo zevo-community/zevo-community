@@ -1,6 +1,8 @@
-## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
+## Zevo Technologies Corporation - CEO Davada Beni Zaita - Superhero Sousa: The Green Man™ 
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f7af453b-0ef8-439b-a3f5-56804d7d7cc6" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ae6902d-7d15-4247-9c7d-c435c753b61f" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b7e3227-06d9-45dd-9b1c-b3bebbc6d39e" />
 
 ---
 
@@ -18,14 +20,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
----
-
-## Superhero Sousa: The Green Man
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ae6902d-7d15-4247-9c7d-c435c753b61f" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b7e3227-06d9-45dd-9b1c-b3bebbc6d39e" />
 
 ## Superhero Animation: The Green Man 
 

@@ -1,5 +1,11 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
+---
+
+### Davadao Safadao™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f91820d6-c1c6-45cb-9b67-1cab128501bb" />
+
 ### The Jango - Xerife - Davada Beni Zaita - A turma do chapelão™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee973860-9b54-4c17-a05f-98b563def55e" />

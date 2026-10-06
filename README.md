@@ -2,6 +2,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f7af453b-0ef8-439b-a3f5-56804d7d7cc6" />
 
+---
+
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +20,8 @@ Here are some ideas to get you started:
 -->
 
 ## Zavata Animation: The Black Stallion 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/279b9dfa-fe92-4aa0-87bb-ed6028d4a7d4" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c545b78b-b040-4311-9d54-7617428ddd39" />
 

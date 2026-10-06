@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Zavata Animation: The Black Stallion 
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/279b9dfa-fe92-4aa0-87bb-ed6028d4a7d4" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4d8de2d5-0ef3-43c9-b009-4f9b00f9dcc6" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c545b78b-b040-4311-9d54-7617428ddd39" />
 

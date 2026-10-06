@@ -2,6 +2,12 @@
 
 ---
 
+### Senhor e Senhora 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a5122cce-2ed8-4b60-9eda-daec8a1e13ac" />
+
+---
+
 ### Cacamba e Bamba
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8a34dc0f-8434-49d1-9125-ff8ba049ba97" />

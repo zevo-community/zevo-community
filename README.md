@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## Cosplay Metal Heroes™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/5a38c842-1f64-4144-814e-f264f05d5301" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f64a4a11-525d-4dc2-94e2-70ed8f49b9ad" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a284f557-577c-40c8-8555-1e34888094f5" />

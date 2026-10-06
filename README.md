@@ -2,6 +2,8 @@
 
 ### Superhero Sousa Man™ 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4d885ac6-a804-412d-b6a2-65f8c30d45ca" />
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6dbf52e8-43ab-4570-ba67-4715810be307" />

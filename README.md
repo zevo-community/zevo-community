@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+## Super Hero Elevation - Samurai Shadow - Takeda Sato
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/31f2d5b7-c391-4307-b875-5dbd06971608" />
+
 ## Cosplay Metal Heroes™
 
 <h3>Takeda Sato - Kamen Rider X</h3>

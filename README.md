@@ -1,5 +1,9 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
+### The The Bunglers Quartet on small plastic cup™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/733d5bc2-172e-48dc-b134-e16a3c2ec586" />
+
 ### The The Bunglers Quartet™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/95c9fe14-4545-4875-8051-ff1587f87f78" />

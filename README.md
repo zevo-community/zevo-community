@@ -1,4 +1,4 @@
-## CEO Davada Beni Zaita - Zevo Technologies Corporation™
+## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f7af453b-0ef8-439b-a3f5-56804d7d7cc6" />
 
@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 ---
 
 ## Zavata Assistive Robots: Manufactured in a home laboratory
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a822572a-995e-4487-a0cb-a4ff437d6a03" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7aacda62-e65e-4e80-8ec9-a27b80ca9173" />
 

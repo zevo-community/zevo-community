@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ---
 
+## Superhero Sousa: The Green Man
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b7e3227-06d9-45dd-9b1c-b3bebbc6d39e" />
+
 ## Superhero Animation: The Green Man 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dd4985ec-5a2d-4bb0-8053-72bb6a574dc0" />

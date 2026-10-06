@@ -2,6 +2,10 @@
 
 ---
 
+### Davadona Safadeira - A melhor mulher do mundo é que poupa a noite inteira  
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/760b77c9-9fbc-438d-b58f-6a3a09c3ca7a" />
+
 ### Davadao Safadao - Sonhei que estava caganho e molhei o traviseiro™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4285f314-91b9-4f07-b72c-5cdcc3b44084" />

@@ -1,8 +1,8 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/26f2b3fe-9d75-470b-b794-d741ca637975" />
 
 ---
-
 
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

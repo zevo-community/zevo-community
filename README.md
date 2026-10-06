@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 
 ## Super Hero Elevation - Samurai Shadow - Takeda Sato
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/beaf2681-36f8-4ce8-9657-27724a1b8142" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/31f2d5b7-c391-4307-b875-5dbd06971608" />
 
 ## Cosplay Metal Heroes™

@@ -2,6 +2,10 @@
 
 ---
 
+### Tatiana Boladeira - A melhor mulher do mundo é a que cavalga a noite inteira
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b549ec1d-a88c-4c5d-b2b8-c4978c09ef4a" />
+
 ### Davadona Caseira - A melhor mulher do mundo é a que não caga a casa interia
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a6759779-2226-4146-9fe8-d8ebdba0dc42" />

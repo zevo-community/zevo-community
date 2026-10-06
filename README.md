@@ -1,8 +1,10 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita 
 
-### Superhero Sousa: The Green Man™ 
+### Superhero Sousa Man™ 
 
 ---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4bcd7c61-6fec-43cf-9388-4cfe5d264c14" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8ae6902d-7d15-4247-9c7d-c435c753b61f" />
 

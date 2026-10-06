@@ -8,10 +8,6 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b7e3227-06d9-45dd-9b1c-b3bebbc6d39e" />
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6dbf52e8-43ab-4570-ba67-4715810be307" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4bcd7c61-6fec-43cf-9388-4cfe5d264c14" />
-
 ---
 
 <!--
@@ -37,6 +33,9 @@ Here are some ideas to get you started:
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d24ee89d-8011-4326-8718-385818bb050c" />
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6dbf52e8-43ab-4570-ba67-4715810be307" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4bcd7c61-6fec-43cf-9388-4cfe5d264c14" />
 
 ## Zavata Animation: The White Stallion 
 

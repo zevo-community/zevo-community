@@ -1,5 +1,9 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
+### A turma do chapelão™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ee973860-9b54-4c17-a05f-98b563def55e" />
+
 ### Diabolic Tampa™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3e3956db-8d61-47a9-b7c9-6cc28e7b9f18" />

@@ -19,6 +19,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## Superhero Animation: The Green Man 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d24ee89d-8011-4326-8718-385818bb050c" />
+
+
 ## Zavata Animation: The White Stallion 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bef68df5-2423-414a-b99a-cae5e115a024" />

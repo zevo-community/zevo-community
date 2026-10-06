@@ -2,7 +2,7 @@
 
 ---
 
-### The Chavez Family Animation™
+### The Mexican Chavez Family Animation™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bcc58bdb-76ab-423f-af76-885fe1a93c9c" />
 

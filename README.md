@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Zavata Animation: The White Stallion 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bef68df5-2423-414a-b99a-cae5e115a024" />
+
 ## Zavata Animation: The Black Stallion 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4d8de2d5-0ef3-43c9-b009-4f9b00f9dcc6" />

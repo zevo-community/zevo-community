@@ -2,7 +2,7 @@
 
 ---
 
-### Sousa Man™
+### Sousa Man, Before Elevate™
 
 <h3>The young boy "Sousa Man" shouts "elevate" and immediately transforms into Superman.</h3>
 

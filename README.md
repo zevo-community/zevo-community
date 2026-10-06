@@ -1,6 +1,6 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™ 
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/26f2b3fe-9d75-470b-b794-d741ca637975" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a7e8c16e-456b-44b8-9dbc-2a6a527ba148" />
 
 ---
 

@@ -19,6 +19,10 @@ Here are some ideas to get you started:
 
 ---
 
+## Zavata Assistive Robots: CAD Architectural Design
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b73a6205-ad2c-408d-86f3-38a6ce7396e4" />
+
 ## Zavata Assistive Robots: Manufactured in home laboratory
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b70c1195-2018-400a-99ac-8d00298d606d" />

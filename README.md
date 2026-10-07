@@ -6,7 +6,11 @@
 
 ---
 
-## Lillian Alling - Russian Written
+## Lillian Alling - Russian Writer and photographer
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/50ad31c3-4dad-42f8-bde6-137b2e382bad" />
 
 ---
 

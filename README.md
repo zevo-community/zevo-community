@@ -25,6 +25,14 @@ Here are some ideas to get you started:
 
 ---
 
+## Remote collaboration guarantees a 14th salary—including full paid vacation—whereas the payment of local social contributions is the employee's responsibility.
+
+---
+
+## A colaboração remota garante um 14º salário — incluindo férias remuneradas integrais —, ao passo que, pagamento da colaboracao social local, isso fica a cargo do funcionário.
+
+---
+
 ## "The Glimmerlings: A Tapestry of Light" Direct by Hanna Banana and Taco Nana
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3ea1bae8-9cee-4b99-bb37-e2703fb74a17" />

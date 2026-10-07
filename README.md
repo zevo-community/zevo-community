@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Hawaii Waters Theme Cashback
+## Cashback Theme: The Hawaii Beach
 
 ---
 

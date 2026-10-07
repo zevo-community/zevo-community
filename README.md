@@ -1,4 +1,4 @@
-## Dr. Rola (Davada Zaita)
+## Dr. Gyno Rola (Davada Zaita)
 
 ## Priquito de muie e pra baxo e a entrada é 14 favore entrar a do cabo
 

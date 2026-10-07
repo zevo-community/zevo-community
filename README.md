@@ -2,6 +2,10 @@
 
 ---
 
+#### Episode credits list the cast, crew, and creators who worked on a specific television show episode.
+
+---
+
 #### Congratulations – my beloved grandmother™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9738b8f0-031e-4f3d-b230-4d26ef71d184" />

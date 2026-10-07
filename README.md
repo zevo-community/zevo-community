@@ -1,11 +1,3 @@
-### Esquerda da questão - Vermelho e Preto and Direita da questão - Vermelho e Branco™
-
-### OR
-
-### Direita da questão - Vermelho e Branco and Esquerda da questão - Vermelho e Preto™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d4fded84-3ed1-49ff-aac2-f7c34cbc2088" />
-
 ## Zevo AI-Driven Computer Engineering Ecosystem™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />

@@ -1,5 +1,7 @@
 ## Ana Paneleira - Mulher boa é que bota boneco para dar a buceta
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2a09bd5e-abb6-447f-9b81-61af5100a7d4" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/fea6fd32-0c6a-462c-b02d-b21300c50928" />
 
 ---

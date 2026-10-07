@@ -25,23 +25,7 @@ Here are some ideas to get you started:
 
 ---
 
-## Assert your rights with your employer.
-
-## Exija seu direito ao empregador
-
----
-
-## 40-hour workweek (8 hours per day) with a job and career progression plan.
-
-## Jornada de trabalho de 40 horas semanais (8 horas por dia), com plano de carreira e progressão profissional.
-
----
-
-## Remote collaboration guarantees a 14th salary—including full paid vacation—whereas the payment of local social contributions is the employee's responsibility.
-
----
-
-## A colaboração remota garante um 14º salário — incluindo férias remuneradas integrais —, ao passo que, pagamento da colaboracao social local, isso fica a cargo do funcionário.
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1be75002-11ea-4269-b087-7484bd5bd944" />
 
 ---
 
@@ -1002,3 +986,25 @@ For "The Glimmerlings: A Tapestry of Light," this architecture ensures that ever
 *Last Updated: [Current Date]*
 *Classification: Internal — Zevo Animation Studio*
 *Distribution: Executive, Creative, Technical, Production Teams*
+
+---
+
+---
+
+## Assert your rights with your employer.
+
+## Exija seu direito ao empregador
+
+---
+
+## 40-hour workweek (8 hours per day) with a job and career progression plan.
+
+## Jornada de trabalho de 40 horas semanais (8 horas por dia), com plano de carreira e progressão profissional.
+
+---
+
+## Remote collaboration guarantees a 14th salary—including full paid vacation—whereas the payment of local social contributions is the employee's responsibility.
+
+---
+
+## A colaboração remota garante um 14º salário — incluindo férias remuneradas integrais —, ao passo que, pagamento da colaboracao social local, isso fica a cargo do funcionário.

@@ -2,6 +2,10 @@
 
 ---
 
+#### Congratulations – my beloved grandmother™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9738b8f0-031e-4f3d-b230-4d26ef71d184" />
+
 #### Congratulations – Hadassa Zaita - CEO Zevo Corporation™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c1b445e-fb35-4db3-9f1c-73d1d4259e42" />

@@ -45,16 +45,6 @@ Here are some ideas to get you started:
 
 ---
 
-## "The Glimmerlings: A Tapestry of Light" Direct by Hanna Banana and Taco Nana
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3ea1bae8-9cee-4b99-bb37-e2703fb74a17" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/89d051b2-3e29-4584-be22-66d47bbd856b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/186814e2-e8aa-4884-a3aa-210e57e2755e" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f90e233-9653-4b40-ade6-c9c979fe20bf" />
-
 # ZEVO AI-DRIVEN ANIMATION STUDIO
 ## Complete Professional Production Pipeline & Software Architecture
 ### For "The Glimmerlings: A Tapestry of Light" — 5D 8K HDR Pixar-Style Series
@@ -555,7 +545,7 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
 │              "THE GLIMMERLINGS" EPISODE PIPELINE                            │
-│                   22-Minute Episode Timeline                                │
+│                   21-Minute Episode Timeline                                │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 WEEK 1-2: SCRIPT & STORY
@@ -912,12 +902,12 @@ WEEK 19-20: QC & DELIVERY
 
 ### 10.2 Delivery Specifications
 
-| Format | Resolution | HDR | Audio | Target Device |
-|--------|------------|-----|-------|---------------|
-| **Premium** | 8K | Dolby Vision IQ | Dolby Atmos | High-end Smart TV |
+| Format       | Resolution | HDR | Audio | Target Device |
+|--------------|------------|-----|-------|---------------|
+| **Premium**  | 8K | Dolby Vision IQ | Dolby Atmos | High-end Smart TV |
 | **Standard** | 4K | HDR10+ | Dolby Atmos | Mid-range Smart TV |
-| **Mobile** | 1080p | HDR10 | Stereo | Tablet, Phone |
-| **Legacy** | 1080p | SDR | Stereo | Older devices |
+| **Mobile**   | 1080p | HDR10 | Stereo | Tablet, Phone |
+| **Legacy**   | 1080p | SDR | Stereo | Older devices |
 | **Download** | 4K | HDR10 | Dolby Atmos | Offline viewing |
 
 ---
@@ -975,26 +965,26 @@ WEEK 19-20: QC & DELIVERY
 
 ### 12.1 Technology Evolution
 
-| Phase | Timeline | Technology | Impact |
-|-------|----------|------------|--------|
-| **Phase 1** | 2024-2025 | AI-assisted animation | 30% efficiency gain |
-| **Phase 2** | 2025-2026 | Real-time 8K rendering | Instant preview |
-| **Phase 3** | 2026-2027 | AI-generated animation | 50% cost reduction |
-| **Phase 4** | 2027-2028 | Interactive storytelling | Personalized episodes |
-| **Phase 5** | 2028-2029 | VR/AR experiences | Immersive Glimmerlings |
-| **Phase 6** | 2029-2030 | Neural rendering | Photorealistic animation |
+| Phase       | Timeline  | Technology               | Impact                   |
+|-------------|-----------|--------------------------|--------------------------|
+| **Phase 1** | 2024-2025 | AI-assisted animation    | 30% efficiency gain      |
+| **Phase 2** | 2025-2026 | Real-time 8K rendering   | Instant preview          |
+| **Phase 3** | 2026-2027 | AI-generated animation   | 50% cost reduction       |
+| **Phase 4** | 2027-2028 | Interactive storytelling | Personalized episodes    |
+| **Phase 5** | 2028-2029 | VR/AR experiences        | Immersive Glimmerlings   |
+| **Phase 6** | 2029-2030 | Neural rendering         | Photorealistic animation |
 
 ### 12.2 Content Expansion
 
-| Content Type      | Timeline  | Description |
-|-------------------|-------- --|-------------|
-| **Season 1**      |2024-2025  | 21 episodes, 21 minutes each |
-| **Season 2**      | 2025-2026 | 26 episodes, expanded world |
-| **Special**       | 2025      | 45-minute holiday special |
+| Content Type      | Timeline  | Description                  |
+|-------------------|-----------|------------------------------|
+| **Season 1**      | 2024-2025 | 21 episodes, 21 minutes each |
+| **Season 2**      | 2025-2026 | 26 episodes, expanded world  |
+| **Special**       | 2025      | 45-minute holiday special    |
 | **Film**          | 2026-2027 | 90-minute theatrical feature |
-| **Spin-off**      | 2027-2028 | Pip's origin story |
-| **Interactive**   | 2028-2029 | Choose-your-own-adventure |
-| **VR Experience** | 2029-2030 | Explore the Luminous Grove |
+| **Spin-off**      | 2027-2028 | Pip's origin story           |
+| **Interactive**   | 2028-2029 | Choose-your-own-adventure    |
+| **VR Experience** | 2029-2030 | Explore the Luminous Grove   |
 
 ---
 
@@ -1002,7 +992,7 @@ WEEK 19-20: QC & DELIVERY
 
 The **Zevo AI-Driven Animation Studio** represents the future of professional animation production—a seamless integration of human creativity and artificial intelligence, powered by the proprietary **Lumina Engine** and a comprehensive suite of AI tools. Every discipline, from storyboarding to delivery, is enhanced by machine learning, enabling artists to work faster, smarter, and more creatively.
 
-For "The Glimm erlings: A Tapestry of Light," this architecture ensures that every frame is a work of art, every performance is emotionally resonant, and every episode is delivered in stunning 8K HDR quality to children around the world.
+For "The Glimmerlings: A Tapestry of Light," this architecture ensures that every frame is a work of art, every performance is emotionally resonant, and every episode is delivered in stunning 8K HDR quality to children around the world.
 
 **The future of animation is here. It's AI-powered. It's human-crafted. It's Zevo.**
 

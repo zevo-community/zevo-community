@@ -1,62 +1,3 @@
-## Zevo Technologies Corporation™
-
----
-
-#### Episode credits list the cast, crew, and creators who worked on a specific television show episode.
-
----
-
-#### Congratulations – my beloved grandmother™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9738b8f0-031e-4f3d-b230-4d26ef71d184" />
-
-#### Congratulations – Hadassa Zaita - CEO Zevo Corporation™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c1b445e-fb35-4db3-9f1c-73d1d4259e42" />
-
----
-
-## Hero's Journey within Davada Zaita
-
----
-
-#### Congratulations – Russian writer and photographer – Lillian Alling – Died in a traffic accident in Europe.
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/50ad31c3-4dad-42f8-bde6-137b2e382bad" />
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6cba636a-cbb3-4ec0-8af4-1296c3f42e21" />
-
----
-
-#### Davada Zaita and Mariana Zaita on Russian, Mockba - KGB 2012
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f11e58b8-d769-404a-8bdf-34ad377a892b" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d8ac4e33-569a-401f-8f2f-01548cec71ed" />
-
----
-
-## Davada Zaita on Baghdad 2010
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67cc494b-baf6-40bf-98f4-3d5aa313e9ba" />
-
-## Davada Zaita on EUA New York 2010
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f5550a7-cb65-423b-b497-e87fcc053e36" />
-
-## Davada Zaita on Berlin 2009
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/38653c53-8a8d-4b96-98b5-21d48a9abe80" />
-
-## Davada Zaita vs Hiroshi Umiak - Training Combat on Japan 2009
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a7e8c16e-456b-44b8-9dbc-2a6a527ba148" />
-
----
 
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -73,7 +14,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## The "Guava Worm" Program - “FM Radio National News 140.7.”
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6754eb52-fccc-4fb5-824c-24621a582575" />
 

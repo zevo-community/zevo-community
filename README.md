@@ -2,6 +2,12 @@
 
 ---
 
+#### Congratulations – Hadassa Zaita - CEO Zevo Corporation
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9c1b445e-fb35-4db3-9f1c-73d1d4259e42" />
+
+---
+
 ## Hero's Journey within Davada Zaita
 
 ---

@@ -1,4 +1,4 @@
-## Esquerda da questão - Vermelho e Preto and Direita da questão - Vermelho e Branco™
+### Esquerda da questão - Vermelho e Preto and Direita da questão - Vermelho e Branco™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d4fded84-3ed1-49ff-aac2-f7c34cbc2088" />
 

@@ -8,6 +8,8 @@
 
 #### Davada Zaita and Mariana Zaita on Russian, Mockba - KGB 2012
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f11e58b8-d769-404a-8bdf-34ad377a892b" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d8ac4e33-569a-401f-8f2f-01548cec71ed" />
 
 ---

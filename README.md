@@ -25,6 +25,18 @@ Here are some ideas to get you started:
 
 ---
 
+## Assert your rights with your employer.
+
+## Exija seu direito ao empregador
+
+---
+
+## 40-hour workweek (8 hours per day) with a job and career progression plan.
+
+## Jornada de trabalho de 40 horas semanais (8 horas por dia), com plano de carreira e progressão profissional.
+
+---
+
 ## Remote collaboration guarantees a 14th salary—including full paid vacation—whereas the payment of local social contributions is the employee's responsibility.
 
 ---
@@ -47,7 +59,7 @@ Here are some ideas to get you started:
 
 # ZEVO AI-DRIVEN ANIMATION STUDIO
 ## Complete Professional Production Pipeline & Software Architecture
-### For "The Glimmerlings: A Tapestry of Light" — 3D 8K HDR Pixar-Style Series
+### For "The Glimmerlings: A Tapestry of Light" — 5D 8K HDR Pixar-Style Series
 
 ---
 
@@ -63,32 +75,32 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         ZEVO AI-DRIVEN ANIMATION STUDIO                      │
-│                                                                              │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐        │
-│  │  PRE-       │  │  PRODUCTION │  │  POST-      │  │  DELIVERY   │        │
-│  │  PRODUCTION │→ │             │→ │  PRODUCTION │→ │             │        │
-│  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘        │
+│                         ZEVO AI-DRIVEN ANIMATION STUDIO                     │
+│                                                                             │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐         │
+│  │  PRE-       │  │  PRODUCTION │  │  POST-      │  │  DELIVERY   │         │
+│  │  PRODUCTION │→ │             │→ │  PRODUCTION │→ │             │         │
+│  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘         │
 │         ↑               ↑               ↑               ↑                   │
 │         └───────────────┴───────────────┴───────────────┘                   │
-│                                    │                                         │
+│                                    │                                        │
 │                    ┌───────────────┴───────────────┐                        │
 │                    │     ZEVO AI CORE ENGINE       │                        │
 │                    │  (Machine Learning Pipeline)  │                        │
 │                    └───────────────────────────────┘                        │
-│                                    │                                         │
+│                                    │                                        │
 │         ┌──────────────────────────┼──────────────────────────┐             │
 │         ↓                          ↓                          ↓             │
 │  ┌─────────────┐            ┌─────────────┐            ┌─────────────┐      │
 │  │  CREATIVE   │            │  TECHNICAL  │            │  PRODUCTION │      │
 │  │  AI TOOLS   │            │  AI TOOLS   │            │  AI TOOLS   │      │
 │  └─────────────┘            └─────────────┘            └─────────────┘      │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    CLOUD-NATIVE COLLABORATION LAYER                  │   │
-│  │         (Real-time sync • Version control • Asset management)        │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    CLOUD-NATIVE COLLABORATION LAYER                 │    │
+│  │         (Real-time sync • Version control • Asset management)       │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -111,52 +123,52 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         LUMINA ENGINE ARCHITECTURE                           │
-│                                                                              │
+│                         LUMINA ENGINE ARCHITECTURE                          │
+│                                                                             │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                         APPLICATION LAYER                              │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │  STORYBOARD │ │  ANIMATION  │ │  LIGHTING   │ │  RENDERING  │     │  │
-│  │  │    SUITE    │ │    SUITE    │ │    SUITE    │ │    SUITE    │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │   ASSET     │ │  SIMULATION │ │  COMPOSITING│ │   AUDIO     │     │  │
-│  │  │  MANAGER    │ │    SUITE    │ │    SUITE    │ │    SUITE    │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
+│  │                         APPLICATION LAYER                             │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │  STORYBOARD │ │  ANIMATION  │ │  LIGHTING   │ │  RENDERING  │      │  │
+│  │  │    SUITE    │ │    SUITE    │ │    SUITE    │ │    SUITE    │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │   ASSET     │ │  SIMULATION │ │  COMPOSITING│ │   AUDIO     │      │  │
+│  │  │  MANAGER    │ │    SUITE    │ │    SUITE    │ │    SUITE    │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
 │  └───────────────────────────────────────────────────────────────────────┘  │
-│                                                                              │
+│                                                                             │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                         AI SERVICES LAYER                              │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │   STORY     │ │  CHARACTER  │ │  ANIMATION  │ │  LIGHTING   │     │  │
-│  │  │INTELLIGENCE │ │    AI       │ │    AI       │ │    AI       │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │    FX AI    │ │  RENDER AI  │ │  AUDIO AI   │ │  QUALITY    │     │  │
-│  │  │             │ │             │ │             │ │    AI       │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
+│  │                         AI SERVICES LAYER                             │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │   STORY     │ │  CHARACTER  │ │  ANIMATION  │ │  LIGHTING   │      │  │
+│  │  │INTELLIGENCE │ │    AI       │ │    AI       │ │    AI       │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │    FX AI    │ │  RENDER AI  │ │  AUDIO AI   │ │  QUALITY    │      │  │
+│  │  │             │ │             │ │             │ │    AI       │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
 │  └───────────────────────────────────────────────────────────────────────┘  │
-│                                                                              │
+│                                                                             │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                         CORE ENGINE LAYER                              │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │   GEOMETRY  │ │  MATERIALS  │ │   LIGHTING  │ │    RENDER   │     │  │
-│  │  │   ENGINE    │ │   ENGINE    │ │   ENGINE    │ │   ENGINE    │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │  PHYSICS    │ │   HAIR/     │ │   CLOTH     │ │   VOLUME    │     │  │
-│  │  │   ENGINE    │ │    FUR      │ │ SIMULATION  │ │  RENDERING  │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
+│  │                         CORE ENGINE LAYER                             │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │   GEOMETRY  │ │  MATERIALS  │ │   LIGHTING  │ │    RENDER   │      │  │
+│  │  │   ENGINE    │ │   ENGINE    │ │   ENGINE    │ │   ENGINE    │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │  PHYSICS    │ │   HAIR/     │ │   CLOTH     │ │   VOLUME    │      │  │
+│  │  │   ENGINE    │ │    FUR      │ │ SIMULATION  │ │  RENDERING  │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
 │  └───────────────────────────────────────────────────────────────────────┘  │
-│                                                                              │
+│                                                                             │
 │  ┌───────────────────────────────────────────────────────────────────────┐  │
-│  │                      INFRASTRUCTURE LAYER                              │  │
-│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐     │  │
-│  │  │   CLOUD     │ │   STORAGE   │ │   NETWORK   │ │   SECURITY  │     │  │
-│  │  │  COMPUTE    │ │   SYSTEM    │ │   LAYER     │ │   LAYER     │     │  │
-│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘     │  │
+│  │                      INFRASTRUCTURE LAYER                             │  │
+│  │  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐      │  │
+│  │  │   CLOUD     │ │   STORAGE   │ │   NETWORK   │ │   SECURITY  │      │  │
+│  │  │  COMPUTE    │ │   SYSTEM    │ │   LAYER     │ │   LAYER     │      │  │
+│  │  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘      │  │
 │  └───────────────────────────────────────────────────────────────────────┘  │
-│                                                                              │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -177,7 +189,7 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 | Software | Function | AI Integration | Professional Users |
 |----------|----------|----------------|-------------------|
-| **Zevo ModelForge** | 3D modeling & sculpting | Topology AI, Detail AI | Modelers, Character Artists |
+| **Zevo ModelForge** | 5D modeling & sculpting | Topology AI, Detail AI | Modelers, Character Artists |
 | **Zevo RigMaster** | Rigging & skeletal systems | Auto-Rig AI, Deformation AI | Riggers, Technical Directors |
 | **Zevo AnimCore** | Keyframe & procedural animation | Animation AI, Motion Capture AI | Animators, Animation Directors |
 | **Zevo SimSuite** | Physics & simulation | Simulation AI, Cloth/Hair AI | FX Artists, Simulation TDs |
@@ -212,8 +224,8 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    STORYBOARD ARTIST WORKFLOW                                │
-│                    Powered by Zevo StoryForge                                │
+│                    STORYBOARD ARTIST WORKFLOW                               │
+│                    Powered by Zevo StoryForge                               │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
@@ -261,8 +273,8 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                       ANIMATION WORKFLOW                                     │
-│                    Powered by Zevo AnimCore                                  │
+│                       ANIMATION WORKFLOW                                    │
+│                    Powered by Zevo AnimCore                                 │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
@@ -310,8 +322,8 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    LIGHTING & RENDERING WORKFLOW                             │
-│                 Powered by Zevo LightWeaver & RenderFarm                     │
+│                    LIGHTING & RENDERING WORKFLOW                            │
+│                 Powered by Zevo LightWeaver & RenderFarm                    │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌──────────────┐    ┌──────────────┐    ┌──────────────┐    ┌──────────────┐
@@ -374,65 +386,65 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         ZEVO AI CORE ENGINE                                  │
-│                    Machine Learning Model Architecture                        │
+│                         ZEVO AI CORE ENGINE                                 │
+│                    Machine Learning Model Architecture                      │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         FOUNDATION MODELS                                    │
-│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐             │
-│  │  ZEVO-STORY-1   │  │  ZEVO-VISION-1  │  │  ZEVO-MOTION-1  │             │
-│  │                 │  │                 │  │                 │             │
-│  │ • 100B params   │  │ • 50B params    │  │ • 75B params    │             │
-│  │ • Trained on    │  │ • Trained on    │  │ • Trained on    │             │
-│  │   50K scripts   │  │   1M images     │  │   100K hours    │             │
-│  │ • Story under-  │  │ • Visual style  │  │   of animation  │             │
-│  │   standing      │  │   transfer      │  │ • Motion        │             │
-│  │ • Emotional     │  │ • Composition   │  │   synthesis     │             │
-│  │   arc analysis  │  │   analysis      │  │ • Performance   │             │
-│  │                 │  │ • Color theory  │  │   transfer      │             │
-│  └─────────────────┘  └─────────────────┘  └─────────────────┘             │
+│                         FOUNDATION MODELS                                   │
+│  ┌─────────────────┐  ┌─────────────────┐  ┌─────────────────┐              │
+│  │  ZEVO-STORY-1   │  │  ZEVO-VISION-1  │  │  ZEVO-MOTION-1  │              │
+│  │                 │  │                 │  │                 │              │
+│  │ • 100B params   │  │ • 50B params    │  │ • 75B params    │              │
+│  │ • Trained on    │  │ • Trained on    │  │ • Trained on    │              │
+│  │   50K scripts   │  │   1M images     │  │   100K hours    │              │
+│  │ • Story under-  │  │ • Visual style  │  │   of animation  │              │
+│  │   standing      │  │   transfer      │  │ • Motion        │              │
+│  │ • Emotional     │  │ • Composition   │  │   synthesis     │              │
+│  │   arc analysis  │  │   analysis      │  │ • Performance   │              │
+│  │                 │  │ • Color theory  │  │   transfer      │              │
+│  └─────────────────┘  └─────────────────┘  └─────────────────┘              │
 └─────────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ↓
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         SPECIALIZED MODELS                                   │
-│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐           │
-│  │  STORYBOARD │ │  CHARACTER  │ │  ANIMATION  │ │  LIGHTING   │           │
-│  │     AI      │ │     AI      │ │     AI      │ │     AI      │           │
-│  │             │ │             │ │             │ │             │           │
-│  │ • Panel     │ │ • Design    │ │ • Pose      │ │ • Mood      │           │
-│  │   generation│ │   suggestion│ │   prediction│ │   matching  │           │
-│  │ • Shot      │ │ • Proportion│ │ • Inbetween │ │ • HDR       │           │
-│  │   composition│ │   consistency│ │   generation│ │   balancing │           │
-│  │ • Timing    │ │ • Expression│ │ • Physics   │ │ • Shadow    │           │
-│  │   analysis  │ │   design    │ │   integration│ │   refinement│           │
-│  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘           │
-│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐           │
-│  │    FX AI    │ │  RENDER AI  │ │  AUDIO AI   │ │  QUALITY    │           │
-│  │             │ │             │ │             │ │     AI      │           │
-│  │ • Particle  │ │ • Denoise   │ │ • Voice     │ │ • Defect    │           │
-│  │   simulation│ │ • Upscale   │ │   synthesis │ │   detection │           │
-│  │ • Cloth     │ │ • Frame     │ │ • Spatial   │ │ • Consistency│          │
-│  │   simulation│ │   interpolation│ │   audio   │ │   checking  │           │
-│  │ • Hair/fur  │ │ • Color     │ │ • Music     │ │ • Continuity│           │
-│  │   simulation│ │   science   │ │   generation│ │   verification│         │
-│  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘           │
+│                         SPECIALIZED MODELS                                  │
+│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐            │
+│  │  STORYBOARD │ │  CHARACTER  │ │  ANIMATION  │ │  LIGHTING   │            │
+│  │     AI      │ │     AI      │ │     AI      │ │     AI      │            │
+│  │             │ │             │ │             │ │             │            │
+│  │ • Panel     │ │ • Design    │ │ • Pose      │ │ • Mood      │            │
+│  │   generation│ │   suggestion│ │   prediction│ │   matching  │            │
+│  │ • Shot      │ │ • Proportion│ │ • Inbetween │ │ • HDR       │            │
+│  │  composition│ │  consistency│ │   generation│ │   balancing │            │
+│  │ • Timing    │ │ • Expression│ │ • Physics   │ │ • Shadow    │            │
+│  │   analysis  │ │   design    │ │  integration│ │   refinement│            │
+│  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘            │
+│  ┌─────────────┐ ┌─────────────┐ ┌─────────────┐ ┌─────────────┐            │
+│  │    FX AI    │ │  RENDER AI  │ │  AUDIO AI   │ │  QUALITY    │            │
+│  │             │ │             │ │             │ │     AI      │            │
+│  │ • Particle  │ │ • Denoise   │ │ • Voice     │ │ • Defect    │            │
+│  │   simulation│ │ • Upscale   │ │   synthesis │ │   detection │            │
+│  │ • Cloth     │ │ • Frame     │ │ • Spatial   │ │ • Consistency│           │
+│  │   simulation│ │interpolation│ │   audio     │ │   checking  │            │
+│  │ • Hair/fur  │ │ • Color     │ │ • Music     │ │ • Continuity│            │
+│  │   simulation│ │   science   │ │   generation│ │ verification│            │
+│  └─────────────┘ └─────────────┘ └─────────────┘ └─────────────┘            │
 └─────────────────────────────────────────────────────────────────────────────┘
                                     │
                                     ↓
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         INTEGRATION LAYER                                    │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    ZEVO AI ORCHESTRATOR                              │   │
-│  │                                                                       │   │
-│  │  • Model routing (which AI for which task)                           │   │
-│  │  • Context management (maintaining project state)                    │   │
-│  │  • Feedback loops (learning from artist corrections)                 │   │
-│  │  • Quality gates (AI-powered approval workflows)                     │   │
-│  │  • Human-in-the-loop (artist override and refinement)                │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
+│                         INTEGRATION LAYER                                   │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    ZEVO AI ORCHESTRATOR                             │    │
+│  │                                                                     │    │
+│  │  • Model routing (which AI for which task)                          │    │
+│  │  • Context management (maintaining project state)                   │    │
+│  │  • Feedback loops (learning from artist corrections)                │    │
+│  │  • Quality gates (AI-powered approval workflows)                    │    │
+│  │  • Human-in-the-loop (artist override and refinement)               │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -451,34 +463,34 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         AI ETHICS FRAMEWORK                                  │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    ZEVO RESPONSIBLE AI PRINCIPLES                    │   │
-│  │                                                                       │   │
-│  │  1. HUMAN CREATIVITY FIRST                                           │   │
-│  │     AI augments, never replaces, human artists                       │   │
-│  │                                                                       │   │
-│  │  2. TRANSPARENT ATTRIBUTION                                          │   │
-│  │     All AI-generated content is clearly labeled                      │   │
-│  │                                                                       │   │
-│  │  3. DIVERSE REPRESENTATION                                           │   │
-│  │     AI models trained on diverse, inclusive datasets                 │   │
-│  │                                                                       │   │
-│  │  4. CHILD SAFETY FIRST                                               │   │
-│  │     All content passes rigorous child-appropriate filters            │   │
-│  │                                                                       │   │
-│  │  5. ARTIST CONSENT                                                   │   │
-│  │     Artists control how their work trains AI models                  │   │
-│  │                                                                       │   │
-│  │  6. FAIR COMPENSATION                                                │   │
-│  │     Artists compensated for AI-assisted work                         │   │
-│  │                                                                       │   │
-│  │  7. CONTINUOUS MONITORING                                            │   │
-│  │     AI outputs reviewed for bias, safety, and quality                │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
+│                         AI ETHICS FRAMEWORK                                 │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    ZEVO RESPONSIBLE AI PRINCIPLES                   │    │
+│  │                                                                     │    │
+│  │  1. HUMAN CREATIVITY FIRST                                          │    │
+│  │     AI augments, never replaces, human artists                      │    │
+│  │                                                                     │    │
+│  │  2. TRANSPARENT ATTRIBUTION                                         │    │
+│  │     All AI-generated content is clearly labeled                     │    │
+│  │                                                                     │    │
+│  │  3. DIVERSE REPRESENTATION                                          │    │
+│  │     AI models trained on diverse, inclusive datasets                │    │
+│  │                                                                     │    │
+│  │  4. CHILD SAFETY FIRST                                              │    │
+│  │     All content passes rigorous child-appropriate filters           │    │
+│  │                                                                     │    │
+│  │  5. ARTIST CONSENT                                                  │    │
+│  │     Artists control how their work trains AI models                 │    │
+│  │                                                                     │    │
+│  │  6. FAIR COMPENSATION                                               │    │
+│  │     Artists compensated for AI-assisted work                        │    │
+│  │                                                                     │    │
+│  │  7. CONTINUOUS MONITORING                                           │    │
+│  │     AI outputs reviewed for bias, safety, and quality               │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -490,7 +502,7 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO ANIMATION STUDIO ORGANIZATION                        │
+│                    ZEVO ANIMATION STUDIO ORGANIZATION                       │
 └─────────────────────────────────────────────────────────────────────────────┘
 
                               ┌──────────────┐
@@ -544,8 +556,8 @@ The **Zevo AI-Driven Animation Studio** represents a paradigm shift in professio
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│              "THE GLIMMERLINGS" EPISODE PIPELINE                             │
-│                   22-Minute Episode Timeline                                 │
+│              "THE GLIMMERLINGS" EPISODE PIPELINE                            │
+│                   22-Minute Episode Timeline                                │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 WEEK 1-2: SCRIPT & STORY
@@ -563,7 +575,7 @@ WEEK 3-4: STORYBOARD
 WEEK 5-6: DESIGN & MODELING
 ├── Character design (Character designers + AI CharacterLab)
 ├── Environment design (Concept artists + AI ConceptCanvas)
-├── 3D modeling (Modelers + AI ModelForge)
+├── 5D modeling (Modelers + AI ModelForge)
 └── Rigging (Riggers + AI RigMaster)
 
 WEEK 7-10: ANIMATION
@@ -609,50 +621,50 @@ WEEK 19-20: QC & DELIVERY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO ASSET MANAGEMENT SYSTEM                              │
-│                         Powered by AI                                        │
+│                    ZEVO ASSET MANAGEMENT SYSTEM                             │
+│                         Powered by AI                                       │
 └─────────────────────────────────────────────────────────────────────────────┘
 
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                         ASSET HIERARCHY                                      │
-│                                                                              │
-│  Production                                                                  │
-│  └── Season 1                                                                │
+│                         ASSET HIERARCHY                                     │
+│                                                                             │
+│  Production                                                                 │
+│  └── Season 1                                                               │
 │      └── Episode 01: "A Spark in the Gloam"                                 │
-│          ├── Characters                                                      │
-│          │   ├── Elara                                                       │
-│          │   │   ├── Model (v001-v012)                                       │
-│          │   │   ├── Rig (v001-v005)                                         │
-│          │   │   ├── Materials (v001-v008)                                   │
-│          │   │   ├── Textures (8K HDR)                                       │
-│          │   │   └── Animation (per shot)                                    │
-│          │   ├── Pip                                                         │
-│          │   ├── The Elder                                                   │
-│          │   ├── The Shadow Weaver                                           │
-│          │   └── Faded Ones                                                  │
-│          ├── Environments                                                    │
-│          │   ├── The Luminous Grove                                          │
-│          │   │   ├── Geometry                                                │
-│          │   │   ├── Materials                                               │
-│          │   │   ├── Lighting (HDR)                                          │
-│          │   │   └── FX                                                      │
-│          │   ├── The Shadowed Veil                                           │
-│          │   ├── The Prism Peaks                                             │
-│          │   └── The Cave of Echoes                                          │
-│          ├── Props                                                           │
-│          │   ├── Elara's Pendant                                             │
-│          │   ├── The Prism Heart                                             │
-│          │   └── The Great Tapestry                                          │
-│          ├── FX Elements                                                     │
-│          │   ├── Volumetric Light                                            │
-│          │   ├── Particles                                                   │
-│          │   └── Magic Effects                                               │
-│          └── Audio                                                           │
-│              ├── Dialogue                                                    │
-│              ├── Sound Effects                                               │
-│              ├── Music                                                       │
-│              └── Spatial Mix                                                 │
-│                                                                              │
+│          ├── Characters                                                     │
+│          │   ├── Elara                                                      │
+│          │   │   ├── Model (v001-v012)                                      │
+│          │   │   ├── Rig (v001-v005)                                        │
+│          │   │   ├── Materials (v001-v008)                                  │
+│          │   │   ├── Textures (8K HDR)                                      │
+│          │   │   └── Animation (per shot)                                   │
+│          │   ├── Pip                                                        │
+│          │   ├── The Elder                                                  │
+│          │   ├── The Shadow Weaver                                          │
+│          │   └── Faded Ones                                                 │
+│          ├── Environments                                                   │
+│          │   ├── The Luminous Grove                                         │
+│          │   │   ├── Geometry                                               │
+│          │   │   ├── Materials                                              │
+│          │   │   ├── Lighting (HDR)                                         │
+│          │   │   └── FX                                                     │
+│          │   ├── The Shadowed Veil                                          │
+│          │   ├── The Prism Peaks                                            │
+│          │   └── The Cave of Echoes                                         │
+│          ├── Props                                                          │
+│          │   ├── Elara's Pendant                                            │
+│          │   ├── The Prism Heart                                            │
+│          │   └── The Great Tapestry                                         │
+│          ├── FX Elements                                                    │
+│          │   ├── Volumetric Light                                           │
+│          │   ├── Particles                                                  │
+│          │   └── Magic Effects                                              │
+│          └── Audio                                                          │
+│              ├── Dialogue                                                   │
+│              ├── Sound Effects                                              │
+│              ├── Music                                                      │
+│              └── Spatial Mix                                                │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -677,46 +689,46 @@ WEEK 19-20: QC & DELIVERY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO GLOBAL COLLABORATION NETWORK                         │
-│                                                                              │
+│                    ZEVO GLOBAL COLLABORATION NETWORK                        │
+│                                                                             │
 │  ┌─────────────┐                                                            │
-│  │  BURBANK    │←─────────────────────────────────────────────┐             │
-│  │  (HQ)       │                                              │             │
-│  │             │                                              │             │
-│  │ • Creative  │                                              │             │
-│  │ • Executive │                                              │             │
-│  └──────┬──────┘                                              │             │
-│         │                                                      │             │
-│         ↓                                                      │             │
-│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │             │
-│  │  LONDON     │←──→│  VANCOUVER  │←──→│   MUMBAI    │←──────┘             │
-│  │             │    │             │    │             │                     │
-│  │ • Story     │    │ • Animation │    │ • Lighting  │                     │
-│  │ • Design    │    │ • Layout    │    │ • FX        │                     │
-│  │             │    │ • Rigging   │    │ • Rendering │                     │
-│  └──────┬──────┘    └──────┬──────┘    └──────┬──────┘                     │
-│         │                  │                  │                            │
-│         └──────────────────┼──────────────────┘                            │
-│                            │                                               │
-│                            ↓                                               │
-│                    ┌─────────────┐                                         │
-│                    │   SEOUL     │                                         │
-│                    │             │                                         │
-│                    │ • AI R&D    │                                         │
-│                    │ • Technology│                                         │
-│                    └─────────────┘                                         │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    ZEVO CLOUD COLLABORATION                          │   │
-│  │                                                                       │   │
-│  │  • Real-time asset sync (all locations see latest versions)          │   │
-│  │  • Video conferencing with AI transcription and translation          │   │
-│  │  • Virtual screening rooms for review sessions                       │   │
-│  │  • AI-powered feedback aggregation and prioritization                │   │
-│  │  • Time zone-aware scheduling and notifications                      │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
+│  │  BURBANK    │←────────────────────────────────────────────┐              │
+│  │  (HQ)       │                                             │              │
+│  │             │                                             │              │
+│  │ • Creative  │                                             │              │
+│  │ • Executive │                                             │              │
+│  └──────┬──────┘                                             │              │
+│         │                                                    │              │
+│         ↓                                                    │              │
+│  ┌─────────────┐    ┌─────────────┐    ┌─────────────┐       │              │
+│  │  LONDON     │←──→│  VANCOUVER  │←──→│   MUMBAI    │←──────┘              │
+│  │             │    │             │    │             │                      │
+│  │ • Story     │    │ • Animation │    │ • Lighting  │                      │
+│  │ • Design    │    │ • Layout    │    │ • FX        │                      │
+│  │             │    │ • Rigging   │    │ • Rendering │                      │
+│  └──────┬──────┘    └──────┬──────┘    └──────┬──────┘                      │
+│         │                  │                  │                             │
+│         └──────────────────┼──────────────────┘                             │
+│                            │                                                │
+│                            ↓                                                │
+│                    ┌─────────────┐                                          │
+│                    │   SEOUL     │                                          │
+│                    │             │                                          │
+│                    │ • AI R&D    │                                          │
+│                    │ • Technology│                                          │
+│                    └─────────────┘                                          │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    ZEVO CLOUD COLLABORATION                         │    │
+│  │                                                                     │    │
+│  │  • Real-time asset sync (all locations see latest versions)         │    │
+│  │  • Video conferencing with AI transcription and translation         │    │
+│  │  • Virtual screening rooms for review sessions                      │    │
+│  │  • AI-powered feedback aggregation and prioritization               │    │
+│  │  • Time zone-aware scheduling and notifications                     │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -724,8 +736,8 @@ WEEK 19-20: QC & DELIVERY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO REVIEW & APPROVAL WORKFLOW                           │
-│                                                                              │
+│                    ZEVO REVIEW & APPROVAL WORKFLOW                          │
+│                                                                             │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐                   │
 │  │   ARTIST     │    │  AI QUALITY  │    │  SUPERVISOR  │                   │
 │  │  SUBMITS     │───→│    GATE      │───→│   REVIEWS    │                   │
@@ -737,8 +749,8 @@ WEEK 19-20: QC & DELIVERY
 │  │              │    │ • Quality    │    │              │                   │
 │  │              │    │   score      │    │              │                   │
 │  └──────────────┘    └──────────────┘    └──────────────┘                   │
-│                                                   │                          │
-│                                                   ↓                          │
+│                                                   │                         │
+│                                                   ↓                         │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐                   │
 │  │   FINAL      │    │  DIRECTOR    │    │   AI NOTE    │                   │
 │  │  APPROVAL    │←───│   REVIEWS    │←───│  AGGREGATION │                   │
@@ -748,7 +760,7 @@ WEEK 19-20: QC & DELIVERY
 │  │ • Archive    │    │   decision   │    │ • Prioritize │                   │
 │  │              │    │              │    │   changes    │                   │
 │  └──────────────┘    └──────────────┘    └──────────────┘                   │
-│                                                                              │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -809,43 +821,43 @@ WEEK 19-20: QC & DELIVERY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO QUALITY AI SYSTEM                                    │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    AUTOMATED QUALITY CHECKS                          │   │
-│  │                                                                       │   │
-│  │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐ │   │
-│  │  │ TECHNICAL   │  │ CONTINUITY  │  │  CREATIVE   │  │   SAFETY    │ │   │
-│  │  │   QC        │  │    QC       │  │    QC       │  │    QC       │ │   │
-│  │  │             │  │             │  │             │  │             │ │   │
-│  │  │ • Resolution│  │ • Character │  │ • Composition│ │ • Age-      │ │   │
-│  │  │ • Frame rate│  │   consistency│ │ • Color     │  │   appropriate│ │   │
-│  │  │ • Color     │  │ • Prop      │  │   harmony   │  │ • No        │ │   │
-│  │  │   accuracy  │  │   continuity│  │ • Lighting  │  │   violence  │ │   │
-│  │  │ • Audio     │  │ • Costume   │  │   consistency│ │ • No        │ │   │
-│  │  │   sync      │  │   continuity│  │ • Emotional │  │   scary     │ │   │
-│  │  │ • HDR       │  │ • Set       │  │   arc       │  │   content   │ │   │
-│  │  │   compliance│  │   continuity│  │ • Pacing    │  │ • Positive  │ │   │
-│  │  │             │  │ • Timeline  │  │             │  │   messages  │ │   │
-│  │  │             │  │   consistency│ │             │  │             │ │   │
-│  │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘ │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    AI QUALITY SCORING                                │   │
-│  │                                                                       │   │
-│  │  Each shot receives a quality score (0-100) based on:                │   │
-│  │                                                                       │   │
-│  │  • Technical Quality (30%)                                           │   │
-│  │  • Creative Quality (30%)                                            │   │
-│  │  • Continuity (20%)                                                  │   │
-│  │  • Emotional Impact (20%)                                            │   │
-│  │                                                                       │   │
-│  │  Shots scoring below 85 are flagged for human review.                │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
+│                    ZEVO QUALITY AI SYSTEM                                   │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    AUTOMATED QUALITY CHECKS                         │    │
+│  │                                                                     │    │
+│  │  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐ │    │
+│  │  │ TECHNICAL   │  │ CONTINUITY  │  │  CREATIVE   │  │   SAFETY    │ │    │
+│  │  │   QC        │  │    QC       │  │    QC       │  │    QC       │ │    │
+│  │  │             │  │             │  │             │  │             │ │    │
+│  │  │ • Resolution│  │ • Character │  │ • Composition│ │ • Age-      │ │    │
+│  │  │ • Frame rate│  │   consistency│ │ • Color     │  │   appropriate││    │
+│  │  │ • Color     │  │ • Prop      │  │   harmony   │  │ • No        │ │    │
+│  │  │   accuracy  │  │   continuity│  │ • Lighting  │  │   violence  │ │    │
+│  │  │ • Audio     │  │ • Costume   │  │   consistency│ │ • No        │ │    │
+│  │  │   sync      │  │   continuity│  │ • Emotional │  │   scary     │ │    │
+│  │  │ • HDR       │  │ • Set       │  │   arc       │  │   content   │ │    │
+│  │  │   compliance│  │   continuity│  │ • Pacing    │  │ • Positive  │ │    │
+│  │  │             │  │ • Timeline  │  │             │  │   messages  │ │    │
+│  │  │             │  │   consistency│ │             │  │             │ │    │
+│  │  └─────────────┘  └─────────────┘  └─────────────┘  └─────────────┘ │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    AI QUALITY SCORING                               │    │
+│  │                                                                     │    │
+│  │  Each shot receives a quality score (0-100) based on:               │    │
+│  │                                                                     │    │
+│  │  • Technical Quality (30%)                                          │    │
+│  │  • Creative Quality (30%)                                           │    │
+│  │  • Continuity (20%)                                                 │    │
+│  │  • Emotional Impact (20%)                                           │    │
+│  │                                                                     │    │
+│  │  Shots scoring below 85 are flagged for human review.               │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -870,24 +882,24 @@ WEEK 19-20: QC & DELIVERY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO TV DELIVERY PIPELINE                                 │
-│                                                                              │
+│                    ZEVO TV DELIVERY PIPELINE                                │
+│                                                                             │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐                   │
 │  │   FINAL      │    │   FORMAT     │    │   AI         │                   │
-│  │   MASTER     │───→│   CONVERSION │───→│   OPTIMIZATION│                  │
+│  │   MASTER     │───→│   CONVERSION │───→│  OPTIMIZATION│                   │
 │  │              │    │              │    │              │                   │
 │  │ • 8K HDR     │    │ • 8K HDR     │    │ • Per-title  │                   │
 │  │ • Dolby      │    │ • 4K HDR     │    │   encoding   │                   │
 │  │   Vision     │    │ • 1080p HDR  │    │ • AI scene   │                   │
 │  │ • Dolby      │    │ • 1080p SDR  │    │   detection  │                   │
 │  │   Atmos      │    │ • Mobile     │    │ • AI quality │                   │
-│  │              │    │   optimized  │    │   optimization│                  │
+│  │              │    │   optimized  │    │  optimization│                   │
 │  └──────────────┘    └──────────────┘    └──────────────┘                   │
-│                                                   │                          │
-│                                                   ↓                          │
+│                                                   │                         │
+│                                                   ↓                         │
 │  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐                   │
 │  │   ZEVO TV    │    │   CDN        │    │   VIEWER     │                   │
-│  │   PLATFORM   │←───│   DISTRIBUTION│←───│   DEVICES    │                   │
+│  │   PLATFORM   │←───│  DISTRIBUTION│←───│   DEVICES    │                   │
 │  │              │    │              │    │              │                   │
 │  │ • Streaming  │    │ • Global     │    │ • Smart TV   │                   │
 │  │   server     │    │   edge nodes │    │ • Tablet     │                   │
@@ -896,7 +908,7 @@ WEEK 19-20: QC & DELIVERY
 │  │ • DRM        │    │   availability│   │ • Game       │                   │
 │  │   protection │    │              │    │   console    │                   │
 │  └──────────────┘    └──────────────┘    └──────────────┘                   │
-│                                                                              │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -918,44 +930,44 @@ WEEK 19-20: QC & DELIVERY
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────┐
-│                    ZEVO VIEWER ANALYTICS                                     │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    REAL-TIME METRICS                                 │   │
-│  │                                                                       │   │
-│  │  • Viewership (live + on-demand)                                     │   │
-│  │  • Completion rate (per episode, per scene)                          │   │
-│  │  • Engagement (pause, rewind, fast-forward)                          │   │
-│  │  • Device distribution                                               │   │
-│  │  • Geographic distribution                                           │   │
-│  │  • Quality of experience (buffering, resolution)                     │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    AI-POWERED INSIGHTS                               │   │
-│  │                                                                       │   │
-│  │  • Scene-level engagement prediction                                 │   │
-│  │  • Character popularity analysis                                     │   │
-│  │  • Emotional response mapping                                        │   │
-│  │  • Content optimization suggestions                                  │   │
-│  │  • Personalized recommendation engine                                │   │
-│  │  • A/B testing for thumbnails and descriptions                       │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
-│  ┌─────────────────────────────────────────────────────────────────────┐   │
-│  │                    FEEDBACK LOOP                                     │   │
-│  │                                                                       │   │
-│  │  Viewer Data → AI Analysis → Creative Insights → Future Episodes     │   │
-│  │                                                                       │   │
-│  │  • What moments resonate with children?                              │   │
-│  │  • What pacing works best?                                           │   │
-│  │  • What characters connect most?                                     │   │
-│  │  • What educational themes are most effective?                       │   │
-│  │                                                                       │   │
-│  └─────────────────────────────────────────────────────────────────────┘   │
-│                                                                              │
+│                    ZEVO VIEWER ANALYTICS                                    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    REAL-TIME METRICS                                │    │
+│  │                                                                     │    │
+│  │  • Viewership (live + on-demand)                                    │    │
+│  │  • Completion rate (per episode, per scene)                         │    │
+│  │  • Engagement (pause, rewind, fast-forward)                         │    │
+│  │  • Device distribution                                              │    │
+│  │  • Geographic distribution                                          │    │
+│  │  • Quality of experience (buffering, resolution)                    │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    AI-POWERED INSIGHTS                              │    │
+│  │                                                                     │    │
+│  │  • Scene-level engagement prediction                                │    │
+│  │  • Character popularity analysis                                    │    │
+│  │  • Emotional response mapping                                       │    │
+│  │  • Content optimization suggestions                                 │    │
+│  │  • Personalized recommendation engine                               │    │
+│  │  • A/B testing for thumbnails and descriptions                      │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
+│  ┌─────────────────────────────────────────────────────────────────────┐    │
+│  │                    FEEDBACK LOOP                                    │    │
+│  │                                                                     │    │
+│  │  Viewer Data → AI Analysis → Creative Insights → Future Episodes    │    │
+│  │                                                                     │    │
+│  │  • What moments resonate with children?                             │    │
+│  │  • What pacing works best?                                          │    │
+│  │  • What characters connect most?                                    │    │
+│  │  • What educational themes are most effective?                      │    │
+│  │                                                                     │    │
+│  └─────────────────────────────────────────────────────────────────────┘    │
+│                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
 
@@ -1002,7 +1014,3 @@ For "The Glimmerlings: A Tapestry of Light," this architecture ensures that ever
 *Last Updated: [Current Date]*
 *Classification: Internal — Zevo Animation Studio*
 *Distribution: Executive, Creative, Technical, Production Teams*
-
-
-
-

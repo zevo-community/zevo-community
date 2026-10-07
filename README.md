@@ -1,6 +1,8 @@
-## Ana Paneleira - Mulher boa é que bota boneco para dar a buceta
-
 ## Priquito de muie e pra baxo e a entrada é 14 favore entrar a do cabo
+
+<img width="969" height="599" alt="Image" src="https://github.com/user-attachments/assets/5b332480-849b-47f9-b4d4-b5a2a74be3e5" />
+
+## Ana Paneleira - Mulher boa é que bota boneco para dar a buceta
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ef6be0cb-db4c-42c9-b6c8-9b77a9d6209a" />
 

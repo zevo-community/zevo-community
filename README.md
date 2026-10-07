@@ -1,5 +1,13 @@
 ## Priquito de muie e pra baxo e a entrada é 14 favore entrar a do cabo
 
+<h3>The cylindrical vaginal measuring rod (often referred to in clinical practice as a colpometer, vaginal gauge, or graduated dilator) is an elongated, cylindrical instrument marked in centimeters. It is used by healthcare professionals, such as gynecologists and pelvic floor physical therapists, to measure the internal dimensions of the vaginal canal. </h3>
+
+---
+
+<h3>A régua cilíndrica vaginal (frequentemente chamada na prática clínica de colpômetro, medidor vaginal ou dilatador graduado) é um instrumento de formato cilíndrico e alongado, dotado de marcações em centímetros. Ela é utilizada por profissionais de saúde, como ginecologistas e fisioterapeutas pélvicos, para aferir as dimensões internas do canal vaginal. </h3>
+
+---
+
 <img width="969" height="599" alt="Image" src="https://github.com/user-attachments/assets/5b332480-849b-47f9-b4d4-b5a2a74be3e5" />
 
 ## Ana Paneleira - Mulher boa é que bota boneco para dar a buceta

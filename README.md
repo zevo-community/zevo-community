@@ -6,6 +6,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6cba636a-cbb3-4ec0-8af4-1296c3f42e21" />
+
+---
+
 #### Davada Zaita and Mariana Zaita on Russian, Mockba - KGB 2012
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f11e58b8-d769-404a-8bdf-34ad377a892b" />

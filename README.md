@@ -23,5 +23,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+---
+
+## "The Glimmerlings: A Tapestry of Light"
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f90e233-9653-4b40-ade6-c9c979fe20bf" />
+
+
 
 

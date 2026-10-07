@@ -6,7 +6,7 @@
 
 ---
 
-## Lillian Alling - Congratulations - Russian Writer and photographer
+## Lillian Alling - Congratulations - Russian Writer and photographer - Died 2021 Car Accident 
 
 ---
 

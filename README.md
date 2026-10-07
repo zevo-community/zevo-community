@@ -6,7 +6,7 @@
 
 ---
 
-#### Congratulations - Russian Writer and photographer - **Lillian Alling** -  Died in motor vehicle traffic crashes across the Europe
+#### Congratulations – Russian writer and photographer – Lillian Alling – Died in a traffic accident in Europe.
 
 ---
 

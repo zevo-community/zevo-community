@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Master Franchise & Associate Franchise
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/34546ffd-52f5-4e24-a16b-412c3ee8fdb3" />
+
 ---
 
 ## Cashback Theme: The Hawaii Beach

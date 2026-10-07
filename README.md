@@ -1,5 +1,9 @@
 ## Zevo Technologies Corporation - CEO Davada Beni Zaita™
 
+## Davada Zaita on Baghdad 2010
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/67cc494b-baf6-40bf-98f4-3d5aa313e9ba" />
+
 ## Davada Zaita on EUA New York 2010
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8f5550a7-cb65-423b-b497-e87fcc053e36" />

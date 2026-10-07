@@ -1,3 +1,8 @@
+## Zevo AI-Driven Computer Engineering Ecosystem™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
+
+---
 
 <!--
 **zevo-community/zevo-community** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

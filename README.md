@@ -25,6 +25,8 @@ Here are some ideas to get you started:
 
 ## Master Franchise & Associate Franchise
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/27190052-e40e-4fdc-a2c3-76d66ce6487d" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/34546ffd-52f5-4e24-a16b-412c3ee8fdb3" />
 
 ---

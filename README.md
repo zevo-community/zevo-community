@@ -25,7 +25,9 @@ Here are some ideas to get you started:
 
 ---
 
-## "The Glimmerlings: A Tapestry of Light"
+## "The Glimmerlings: A Tapestry of Light" Direct by Hanna Banana and Teco Nana
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/186814e2-e8aa-4884-a3aa-210e57e2755e" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1f90e233-9653-4b40-ade6-c9c979fe20bf" />
 

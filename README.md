@@ -6,8 +6,6 @@
 
 ## River Kay Play - Davada Zaita on the Beach
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b3c0b901-4878-43bd-894e-99116bd13306" />
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c608b8b0-35b0-4ee1-9b02-44ee2f9edd1b" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/6c3d748e-7e65-444b-b624-3c31364f37ba" />
@@ -21,6 +19,10 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/00e6666e-9b26-429e-9487-9cb5f385fede" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df80645d-b631-47c3-a4cf-daf1aea27f3a" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b3c0b901-4878-43bd-894e-99116bd13306" />
+
+---
 
 ## Zevo Strong Girls™ 
 

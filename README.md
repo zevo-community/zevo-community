@@ -1,4 +1,4 @@
-## Zevo AI-Driven 5D 8K HDR Digital Television Streaming™
+## Zevo AI-Driven 5D 8K HDR Digital Smart Television™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/07a413ed-980b-40b0-a561-75442a962fe1" />
 

@@ -1,3 +1,7 @@
+## Zevo's Sushi Bar 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bff6f11a-94af-4b43-bac9-5100c777082d" />
+
 ## Zevo's Burger 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9d460212-c477-4e99-aafb-05bb8cdae01a" />

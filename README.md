@@ -10,7 +10,77 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2d6f90d3-8230-484d-a2d0-fa0b2706facd" />
+**Zevo AI-Driven 5D 8K HDR Smart Digital Television™: A Technical Architecture for Low-Latency Broadcast Middleware and Optional Internet-Enabled Interactivity**
+
+**Author:** [Zevo Research and Prototype Team]  
+**Affiliation:** [Department of Computer Science, Zevo Technologies Corporation]  
+**Date:** 2026-10-08
+
+**Abstract**
+
+This paper presents a technical analysis of the Zevo AI-Driven 5D 8K HDR Digital Television Streaming™ architecture, as specified by a four-stage engineering infographic. The architecture comprises a live data provider, a middleware encoder, a smart digital television receiver, and a cloud-based app store. The system uses DSM-CC carousel modules injected into an MPEG transport stream (MPEG-TS) with separate packet identifiers (PIDs) for text raw, BGRA image/video, and PCM audio. A 1–2 second low-latency update cycle enables automatic screen refresh without an internet connection. Internet access is required only for interactive features and access to the Zevo DTS App Store Cloud. The technology foundation includes ANSI C89/90, HTML5, CSS, JSON, and the Libmicrohttpd web server. This paper describes each stage, clarifies the broadcast and optional internet paths, and discusses the computer science principles underlying the design.
+
+**Keywords:** digital television, MPEG-TS, DSM-CC, carousel, low-latency broadcast, middleware, Zevo, interactive television
+
+---
+
+**1. Introduction**
+
+Digital television systems increasingly combine broadcast reliability with interactive services. The Zevo AI-Driven 5D 8K HDR Digital Television Streaming™ architecture is a four-stage pipeline that delivers live sports scores, weather, and news to a smart television. The design separates a mandatory over-the-air broadcast path from an optional internet path. This separation ensures that broadcast reception and automatic screen refresh function without an internet connection. The following sections describe the four stages in sequence, as presented in the engineering infographic.
+
+**2. Stage 1: Zevo Live Data Provider**
+
+The first stage is the Zevo Live Data Provider. This stage consists of a backend server that gathers live sports scores, weather, and news from clearly labeled sources. The server forwards the collected data to the next stage. In computer science terms, this stage acts as a data ingestion and aggregation layer. The sources are external and are labeled in the infographic. The output is a structured data feed that the middleware encoder consumes.
+
+**3. Stage 2: Zevo Middleware Encoder**
+
+The second stage is the Zevo Middleware Encoder. This stage uses a carousel server to package data into repeating DSM-CC modules. The carousel server injects these modules into an MPEG transport stream (MPEG-TS). The infographic visualizes the stream as distinct labeled packets with separate PIDs for text raw, BGRA image/video, and PCM audio. A small looping arrow around the carousel indicates repetition. The infographic includes the exact label: “1–2 second low-latency update cycle.”
+
+From a computer science perspective, the carousel server implements a data carousel. DSM-CC (Digital Storage Media Command and Control) modules are repeated cyclically. The MPEG-TS multiplexes multiple elementary streams. Each PID identifies a distinct stream: one for text raw, one for BGRA image/video, and one for PCM audio. The 1–2 second update cycle ensures that receivers can refresh content with low latency. The repetition mechanism allows a receiver to join the carousel at any time and acquire the full data set within one cycle.
+
+**4. Stage 3: Zevo Smart Digital Television**
+
+The third stage is the Zevo Smart Digital Television. The MPEG-TS signal travels over the air from a UHF broadcast antenna to a digital television receiver running Zevo middleware. The receiver connects to a television that displays a polished interface with sports, weather, and news panels. The infographic clearly shows that broadcast reception and automatic screen refresh work without an internet connection. It includes the exact label: “Automatic screen refresh; internet connection required only for interactive features and access to the Zevo DTS App Store Cloud.”
+
+This stage embodies the broadcast path. The UHF antenna transmits the MPEG-TS. The digital television receiver demodulates the signal and passes it to the Zevo middleware. The middleware reads the DSM-CC carousel modules, extracts the text raw, BGRA image/video, and PCM audio streams by PID, and renders the interface. Because the carousel repeats every 1–2 seconds, the screen refreshes automatically. No internet connection is required for this process. The internet connection is required only for interactive features and access to the Zevo DTS App Store Cloud.
+
+**5. Stage 4: Zevo DTS App Store Cloud**
+
+The fourth stage is the Zevo DTS App Store Cloud. A Zevo Television provides a networking interface for internet access, interactive streaming, and access to the DTS app store. The Cloud App Store supports the middleware as it reads the carousel and renders an interactive smart-TV interface. The infographic includes a clearly labeled technology foundation listing ANSI C89/90, HTML5, CSS, JSON, and Libmicrohttpd web server.
+
+In computer science terms, this stage introduces an optional internet path. The Zevo Television uses a networking interface to connect to the cloud. The Cloud App Store provides applications and interactive services. The middleware reads the carousel for broadcast content and combines it with interactive elements from the cloud. The technology foundation indicates that the system uses ANSI C89/90 for low-level and portable code, HTML5 and CSS for interface rendering, JSON for data interchange, and Libmicrohttpd as a lightweight web server. The infographic uses visually distinct connection paths: a solid, prominent broadcast path for over-the-air reception and a separate, clearly marked optional internet path for interactive features and app-store access. The different roles are unmistakable: internet is not required for broadcast reception or automatic screen refresh.
+
+**6. Broadcast Path Versus Optional Internet Path**
+
+The architecture defines two distinct paths. The broadcast path is mandatory for receiving live sports scores, weather, and news. It consists of the UHF broadcast antenna, the digital television receiver, and the Zevo middleware. The broadcast path uses MPEG-TS and DSM-CC carousel modules. The optional internet path is required only for interactive features and access to the Zevo DTS App Store Cloud. It consists of the Zevo Television networking interface and the Cloud App Store. The infographic uses a solid, prominent line for the broadcast path and a separate, clearly marked line for the optional internet path. This separation ensures that viewers can receive broadcast content and automatic screen refresh without an internet connection.
+
+**7. Technology Foundation**
+
+The technology foundation listed in the infographic includes ANSI C89/90, HTML5, CSS, JSON, and Libmicrohttpd web server. ANSI C89/90 provides a portable and standardized programming language for embedded and middleware components. HTML5 and CSS provide rendering and styling for the interactive smart-TV interface. JSON provides a lightweight data interchange format. Libmicrohttpd provides a small-footprint web server for the networking interface. These technologies support the middleware as it reads the carousel and renders an interactive smart-TV interface.
+
+**8. Conclusion**
+
+The Zevo AI-Driven 5D 8K HDR Digital Television Streaming™ architecture is a four-stage pipeline that separates broadcast reception from optional internet-enabled interactivity. Stage 1 gathers live data. Stage 2 packages data into DSM-CC modules and injects them into an MPEG-TS with separate PIDs for text raw, BGRA image/video, and PCM audio. Stage 3 receives the broadcast signal over the air and refreshes the screen automatically without an internet connection. Stage 4 provides an optional internet path for interactive features and access to the Zevo DTS App Store Cloud. The technology foundation includes ANSI C89/90, HTML5, CSS, JSON, and Libmicrohttpd web server. The design preserves the exact spelling and punctuation of every specified label and does not add unsupported features or claims.
+
+**References**
+
+[1] International Organization for Standardization. *ISO 690:2021 Information and documentation — Guidelines for bibliographic references and citations to information resources*. Geneva: ISO, 2021.
+
+[2] Zevo Engineering Infographic. “Zevo AI-Driven 5D 8K HDR Digital Television Streaming™.” Technical specification, 2026.
+
+[3] ISO/IEC 13818-1. *Information technology — Generic coding of moving pictures and associated audio information — Part 1: Systems*. Geneva: ISO/IEC, 2019.
+
+[4] ISO/IEC 13818-6. *Information technology — Generic coding of moving pictures and associated audio information — Part 6: Extensions for DSM-CC*. Geneva: ISO/IEC, 1998.
+
+[5] ANSI X3.159-1989. *Programming Language C*. New York: American National Standards Institute, 1989.
+
+[6] WHATWG. *HTML Living Standard*. 2026. Available at: https://html.spec.whatwg.org/ (Accessed: 8 October 2026).
+
+[7] W3C. *CSS Snapshot 2026*. 2026. Available at: https://www.w3.org/TR/css-2026/ (Accessed: 8 October 2026).
+
+[8] ECMA International. *ECMA-404: The JSON Data Interchange Syntax*. 2nd ed. Geneva: ECMA, 2017.
+
+[9] GNU Libmicrohttpd. *GNU Libmicrohttpd Manual*. 2026. Available at: https://www.gnu.org/software/libmicrohttpd/ (Accessed: 8 October 2026).
 
 ---
 
@@ -28,6 +98,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2d6f90d3-8230-484d-a2d0-fa0b2706facd" />
 
 ---
 

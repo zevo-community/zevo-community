@@ -4,6 +4,10 @@
 
 ---
 
+<img width="450" height="441" alt="Image" src="https://github.com/user-attachments/assets/ffa00637-eee8-418d-9c53-2e2e564e25e1" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
 
 ## Rivera Kaya Play - Rivera Zaita on the Beach

@@ -1,3 +1,7 @@
+## Zevo Strong Girls™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
+
 ## Rivera Kaya Play - Rivera Zaita on the Beach
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a8b81fd2-5b40-43bf-aa53-2cb9bc541b89" />

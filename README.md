@@ -1,4 +1,6 @@
-## Zevo's Electronic Super Space™ 
+## DJ Zevo's and Dancers - Electronic Super Space™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7ae5f94f-2f5c-4920-9393-be5bbaabef3a" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/cd29387a-c1a8-4af1-a2fe-3bf2b69aa7d1" />
 

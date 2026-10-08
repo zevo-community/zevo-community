@@ -1,4 +1,7 @@
-## Zevo professional women’s beach soccer football tournament
+## Zevo professional women’s beach soccer handball tournament™
+
+
+## Zevo professional women’s beach soccer football tournament™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3978d6e2-e0b1-4464-91eb-3af677f55219" />
 
@@ -8,7 +11,7 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/77924cfe-a875-42a6-9aea-21e0597255dd" />
 
-## Zevo professional women’s beach soccer volleyball tournament
+## Zevo professional women’s beach soccer volleyball tournament™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/8abd3e08-a492-4fc5-949a-284405357c6f" />
 
@@ -18,8 +21,8 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/620d363e-6c2b-4b4e-8a63-e22e625bc02b" />
 
-## Zevo professional women’s beach volleyball tournament
-
+## Zevo professional women’s beach volleyball tournament™
+™
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/22691822-123d-45c5-96aa-310d8d73bb84" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/d2f3a5ef-f9c3-4f48-8a38-957643cdcbc1" />

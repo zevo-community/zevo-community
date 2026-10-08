@@ -2,7 +2,7 @@
 
 ## Tenta me ultrapassar, hahahhah
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/783ed289-9342-4236-9fc8-ea1b8715b327" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/04b92536-328c-400a-a5ae-af9be5b6777f" />
 
 ---
 

@@ -1,5 +1,7 @@
 ## Zevo's Rock Space™ 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0d9fe405-aed1-48ef-b1c6-5151b754dd55" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/eb4f5014-9e59-4c0c-9dd2-f1fff44ec283" />
 
 ## Zevo's Sushi Bar™ 

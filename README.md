@@ -4,24 +4,6 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/283bb057-c6ad-41c3-a7f7-1a2233404b48" />
 
-## Zevo Strong Girls™ 
-
-<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo pussy vibrator device.</h3>
-
----
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
-
-## Rivera Kaya Play - Rivera Zaita on the Beach
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a8b81fd2-5b40-43bf-aa53-2cb9bc541b89" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a11692b-2673-4988-a742-1a52b6b319e9" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3393b531-7ddf-49d4-b559-ca1ff400b0af" />
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0749cc82-1e73-4360-b2b3-1a9ac4f49998" />
-
 ## River Kay Play - Davada Zaita on the Beach
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b3c0b901-4878-43bd-894e-99116bd13306" />
@@ -39,6 +21,24 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/00e6666e-9b26-429e-9487-9cb5f385fede" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df80645d-b631-47c3-a4cf-daf1aea27f3a" />
+
+## Zevo Strong Girls™ 
+
+<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo pussy vibrator device.</h3>
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
+
+## Rivera Kaya Play - Rivera Zaita on the Beach
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a8b81fd2-5b40-43bf-aa53-2cb9bc541b89" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a11692b-2673-4988-a742-1a52b6b319e9" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3393b531-7ddf-49d4-b559-ca1ff400b0af" />
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0749cc82-1e73-4360-b2b3-1a9ac4f49998" />
 
 ## DJ Zevo's and Dancers - Electronic Super Space™ 
 

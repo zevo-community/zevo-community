@@ -1,3 +1,7 @@
+## Zevo professional beach ball tournament™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9b7b27de-6a7e-4098-a03b-e9310cbf7ee6" />
+
 ## Zevo professional women’s beach soccer handball tournament™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bc3dd059-e36b-4b0e-b455-2b6650b41e1b" />

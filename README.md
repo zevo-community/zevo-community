@@ -1,9 +1,3 @@
-## Zevo Strong Boys™ 
-
-<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo penile erection vacuum compressor device.</h3>
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/283bb057-c6ad-41c3-a7f7-1a2233404b48" />
-
 ## River Kay Play - Davada Zaita on the Beach
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c608b8b0-35b0-4ee1-9b02-44ee2f9edd1b" />
@@ -24,13 +18,13 @@
 
 ---
 
-## Zevo Strong Girls™ 
+## Zevo Strong Boys™ 
 
-<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo pussy vibrator device.</h3>
+<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo penile erection vacuum compressor device.</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/283bb057-c6ad-41c3-a7f7-1a2233404b48" />
 
 ---
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
 
 ## Rivera Kaya Play - Rivera Zaita on the Beach
 
@@ -41,6 +35,16 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3393b531-7ddf-49d4-b559-ca1ff400b0af" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0749cc82-1e73-4360-b2b3-1a9ac4f49998" />
+
+---
+
+## Zevo Strong Girls™ 
+
+<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo pussy vibrator device.</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
+
+---
 
 ## DJ Zevo's and Dancers - Electronic Super Space™ 
 

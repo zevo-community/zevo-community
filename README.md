@@ -1,5 +1,7 @@
 ## River Kay Play - Davada Zaita on the Beach
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df80645d-b631-47c3-a4cf-daf1aea27f3a" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/00e6666e-9b26-429e-9487-9cb5f385fede" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4d113696-8a55-4e6e-8b72-c5c33bc4e141" />

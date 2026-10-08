@@ -4,10 +4,6 @@
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0e4cec1-7f40-4f79-bca9-036ec472637a" />
 
-## Zevo AI-Driven Computer Engineering Ecosystem™
-
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
-
 ---
 
 **Zevo AI-Driven 5D 8K HDR Smart Digital Television™: A Technical Architecture for Low-Latency Broadcast Middleware and Optional Internet-Enabled Interactivity**
@@ -99,6 +95,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Zevo AI-Driven Computer Engineering Ecosystem™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/60b33903-51f9-45d0-bf95-238f38639b25" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2d6f90d3-8230-484d-a2d0-fa0b2706facd" />
 

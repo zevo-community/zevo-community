@@ -1,5 +1,7 @@
 ## River Kay Play - Davada Zaita on the Beach
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4d113696-8a55-4e6e-8b72-c5c33bc4e141" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c608b8b0-35b0-4ee1-9b02-44ee2f9edd1b" />
 
 ## DJ Zevo's and Dancers - Electronic Super Space™ 

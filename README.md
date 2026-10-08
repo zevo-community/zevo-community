@@ -1,6 +1,6 @@
-## Zevo Burger 
+## Zevo Burger's 
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/822a28bd-1cda-4b95-91aa-8d6b80b4f3f4" />
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a786ac88-7427-4f3a-8d2a-20b39aded339" />
 
 ## Zevo AI-Driven Computer Engineering Ecosystem™
 

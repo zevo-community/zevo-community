@@ -1,10 +1,12 @@
+## Zevo Strong Boys™ 
+
+<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo penile erection vacuum compressor device.</h3>
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/283bb057-c6ad-41c3-a7f7-1a2233404b48" />
+
 ## Zevo Strong Girls™ 
 
 <h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor.</h3>
-
----
-
-<img width="450" height="441" alt="Image" src="https://github.com/user-attachments/assets/ffa00637-eee8-418d-9c53-2e2e564e25e1" />
 
 ---
 

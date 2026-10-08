@@ -1,6 +1,6 @@
-## How many of euros have already been invested in research and prototyping patents? Winner Z-Millions !!! HAHAHAHAHA
+## How many of euros have already been invested in research and prototyping patents? Winner Z-Millions !!!
 
-## Zevo AI-Driven 5D 8K HDR Digital Smart Television™
+## Tenta me ultrapassar, hahahhah
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/783ed289-9342-4236-9fc8-ea1b8715b327" />
 

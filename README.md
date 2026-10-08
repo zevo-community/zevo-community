@@ -1,3 +1,7 @@
+## Zevo's Electronic Space™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/9e98c667-2ffd-4b34-8aa7-8ce6f6313a7b" />
+
 ## Zevo's Rock Space™ 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0d9fe405-aed1-48ef-b1c6-5151b754dd55" />

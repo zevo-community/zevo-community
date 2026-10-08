@@ -20,7 +20,7 @@
 
 ## Zevo Strong Boys™ 
 
-<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo penile erection vacuum compressor device.</h3>
+<h3>Suction exercises aim to improve penile muscle tone using the Zevo vacuum compression device for a massaged erection.</h3>
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/283bb057-c6ad-41c3-a7f7-1a2233404b48" />
 

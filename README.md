@@ -1,5 +1,7 @@
 ## Zevo AI-Driven 5D 8K HDR Digital Television Streaming™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a0e4cec1-7f40-4f79-bca9-036ec472637a" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4e58f9b5-9424-46a9-a671-3703b9f8278a" />
 
 ## Zevo AI-Driven Computer Engineering Ecosystem™

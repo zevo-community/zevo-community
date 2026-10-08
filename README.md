@@ -1,4 +1,4 @@
-## Zevo professional women’s beach soccer ball tournament
+## Zevo professional women’s beach soccer football tournament
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/77924cfe-a875-42a6-9aea-21e0597255dd" />
 

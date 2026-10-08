@@ -1,6 +1,6 @@
-## How many of euros have already been invested in research and prototyping patents? Winner Z-Millions !!!
+## How many euros have been earned from research and prototyping patents? Winner Z-Millions !!!
 
-## Tenta me ultrapassar, hahahhah
+## Funny that it's not in Formes. HAHAHHA
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/04b92536-328c-400a-a5ae-af9be5b6777f" />
 

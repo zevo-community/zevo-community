@@ -1,5 +1,9 @@
 ## Zevo Strong Girls™ 
 
+<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor.</h3>
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3f11d5b3-c67e-409e-b9bd-916c0d50b312" />
 
 ## Rivera Kaya Play - Rivera Zaita on the Beach

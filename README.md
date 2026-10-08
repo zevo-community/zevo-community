@@ -6,7 +6,7 @@
 
 ## Zevo Strong Girls™ 
 
-<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor.</h3>
+<h3>Kegel exercises aim to improve muscle tone by strengthening the pubococcygeus muscles of the pelvic floor using zevo pussy vibrator device.</h3>
 
 ---
 

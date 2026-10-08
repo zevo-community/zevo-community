@@ -1,3 +1,7 @@
+## Rivera Kaya Play - Rivera Zaita on the Beach
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0749cc82-1e73-4360-b2b3-1a9ac4f49998" />
+
 ## River Kay Play - Davada Zaita on the Beach
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b3c0b901-4878-43bd-894e-99116bd13306" />

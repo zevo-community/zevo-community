@@ -1,4 +1,8 @@
+## Ja vamos enquantos Zilhoes de EURO ???? AHAHHA
+
 ## Zevo Smart Global Climate Monitoring - One per Home™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/58748062-9870-4393-afb1-cf7118756b48" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df23e8d5-9157-47a8-8587-69cc2b60b8f6" />
 

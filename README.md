@@ -1,5 +1,9 @@
 ## For Global Haters: 
 
+---
+
+## Zevo Corporation, a leader in research and prototyping commercial
+
 <h3>Zevo Technologies Corporation, fully supports international law for all democratically constituted nations.</h3>
 
 ### Reference: https://legal.un.org/avl/studymaterials/handbook/english/book_1.pdf
@@ -7,10 +11,6 @@
 ### Reference: https://legal.un.org/avl/studymaterials/handbook/english/book_2.pdf
 
 ### Reference: https://legal.un.org/avl/studymaterials/handbook/english/book_3.pdf
-
----
-
-## Zevo Corporation, a leader in research and prototyping commercial.
 
 ---
 

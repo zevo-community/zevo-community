@@ -6,6 +6,8 @@
 
 ## It looks like a lot of people are going to retire in this round.
 
+## Parece que muita gente vai se aposentar nesta rodada.
+
 ---
 
 ## Zevo Smart Global Climate Monitoring - One per Perimeter™

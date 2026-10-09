@@ -4,6 +4,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/96460ec1-cc3c-4ab2-b596-892a804bbef0" />
+
+---
+
 ## Zevo Smart Global Climate Monitoring - One per Perimeter™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/37685c24-987f-429f-9073-2150e46ace05" />

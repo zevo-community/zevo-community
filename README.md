@@ -6,6 +6,12 @@
 
 ## Zevo Corporation, a leader in research and prototyping commercial.
 
+## Zevo Smart Home Energy™ - One per Home Monitoring
+
+---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/57a46ac0-1895-4128-99fa-c7e65212171e" />
+
 ---
 
 ## Zevo Smart Energy™ - One per Perimeter Monitoring

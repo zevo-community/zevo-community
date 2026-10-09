@@ -1,5 +1,7 @@
 ## Zevo Smart Glass Assistance™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c61eaf16-0dd3-4fa1-b5aa-e31ccc88fc78" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/804232b7-3f9c-4a82-b978-b885c5814e73" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/7b7a5ebb-b7eb-4ef5-843b-5502e825c3da" />

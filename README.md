@@ -1,5 +1,7 @@
 ## Zevo Smart Climate Monitoring™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df23e8d5-9157-47a8-8587-69cc2b60b8f6" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/4ddfd648-3fe4-4a6e-890d-09f67990336c" />
 
 ## Zevo Smart Glass Assistance™

@@ -1,4 +1,4 @@
-## For Haters: It looks like a lot of people in this round are going to pick up the coin and get a kick in the KU, KU, KU.
+## For Global Haters: 
 
 ---
 
@@ -7,6 +7,8 @@
 ---
 
 ## Zevo Smart Enterprise Energy™ - Super Charging EV
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a0a62d9-39cf-4418-9f6e-da61e2984c8e" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65cad8db-e8bf-4c97-a8af-c580e988b33e" />
 

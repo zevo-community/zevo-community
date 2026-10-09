@@ -8,6 +8,8 @@
 
 ## Zevo Smart Enterprise Energy™ - Super Charging EV
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c3fd0f07-9bde-4de3-b319-105e73621521" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/1a0a62d9-39cf-4418-9f6e-da61e2984c8e" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65cad8db-e8bf-4c97-a8af-c580e988b33e" />

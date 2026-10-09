@@ -6,6 +6,12 @@
 
 ---
 
+## Zevo Smart Global Climate Monitoring - One per Perimeter™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/37685c24-987f-429f-9073-2150e46ace05" />
+
+---
+
 ## Zevo Smart Global Climate Monitoring - One per Home™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/20a4d003-4533-4dd0-896d-21f28cddfda3" />

@@ -1,15 +1,3 @@
-## This one goes out to the haters at Zevo Corporation.
-
----
-
-## How many Z-millions of Euros are we at now?
-
-## It looks like a lot of people are going to retire in this round.
-
-## Parece que muita gente vai se aposentar nesta rodada.
-
----
-
 ## Zevo Corporation™, a leader in research and prototyping commercial.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c536d12c-933e-4999-b1d8-f75d84e32a0c" />

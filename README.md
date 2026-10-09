@@ -2,7 +2,13 @@
 
 ## Em quantos Z-milhões de euros estamos agora? ???? AHAHHA
 
+## This one goes out to the haters at Zevo Corporation.
+
+---
+
 ## Zevo Smart Global Climate Monitoring - One per Home™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/20a4d003-4533-4dd0-896d-21f28cddfda3" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/58748062-9870-4393-afb1-cf7118756b48" />
 

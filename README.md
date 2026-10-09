@@ -1,5 +1,7 @@
 ## Zevo Smart Glass Blind Assistance™
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/23295f63-f040-43b9-a6b2-6a51e3979807" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/911c5aaa-1f86-4b57-8368-262f7af60e79" />
 
 ## Zevo AI-Driven Blind Glass Assistance™

@@ -1,4 +1,4 @@
-## Ja vamos enquantos Zilhoes de EURO ???? AHAHHA
+## Em quantos Z-milhões de euros estamos agora? ???? AHAHHA
 
 ## Zevo Smart Global Climate Monitoring - One per Home™
 

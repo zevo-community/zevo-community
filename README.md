@@ -16,6 +16,8 @@
 
 ## Zevo Smart Energy™ - One per Perimeter Monitoring
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b43b3a4f-b044-485d-88ba-469b96a8f508" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a4fb7ed3-fd59-41fe-8e17-affcbfeb4b49" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b60041e7-920e-4613-9105-c64466ff04c5" />

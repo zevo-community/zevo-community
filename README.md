@@ -10,7 +10,7 @@
 
 ---
 
-## Zevo Corporation™, a leader in research and commercial prototyping.
+## Zevo Corporation™, a leader in research and prototyping commercial.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c536d12c-933e-4999-b1d8-f75d84e32a0c" />
 

@@ -1,6 +1,10 @@
 ## This one goes out to the haters at Zevo Corporation.
 
+---
+
 ## How many Z-millions of Euros are we at now?
+
+## It looks like a lot of people are going to retire in this round.
 
 ---
 

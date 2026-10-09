@@ -10,8 +10,6 @@
 
 ---
 
-<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3edb178b-3c0a-4c44-9aed-aa98dbf1a42a" />
-
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bafbf7fe-e7fe-40e0-822a-5e4cfb512e65" />
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/795afdf7-e8e9-419c-b232-497b0095cf2e" />
@@ -21,6 +19,8 @@
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/afd44bd9-4d8a-4785-b7ca-e2455621558f" />
 
 ---
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/3edb178b-3c0a-4c44-9aed-aa98dbf1a42a" />
 
 **Zevo AI-Driven 5D 8K HDR Smart Digital Television™: A Technical Architecture for Low-Latency Broadcast Middleware and Optional Internet-Enabled Interactivity**
 

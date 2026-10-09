@@ -1,6 +1,6 @@
-## For Haters: Parece que muita gente nesta rodada vai apanhar a moeda e levar um chute na reba.
+## For Haters: It looks like a lot of people in this round are going to pick up the coin and get a kick in the KU, KU, KU.
 
-## For Haters: It looks like a lot of people in this round are going to pick up the coin and get a kick in the ass.
+## For Haters: Parece que muita gente nesta rodada vai apanhar a moeda e levar um chute na reba.
 
 ---
 

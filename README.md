@@ -2,7 +2,7 @@
 
 ---
 
-## Zevo Corporation, a leader in research and prototyping commercial
+## Zevo Technologies Corporation, a leader in research and prototyping commercial
 
 <h3>Zevo Technologies Corporation, fully supports international law for all democratically constituted nations.</h3>
 

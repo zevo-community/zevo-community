@@ -1,7 +1,3 @@
-## How many euros have been earned from research and prototyping patents? Winner Z-Millions !!!
-
-## It's funny that my name isn't on the list "MORTA FOME" of the "Little Indians." HAHAHHA
-
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/18f0fa62-6f8b-4747-b3ed-9907748fcaad" />

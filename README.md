@@ -1,4 +1,4 @@
-## Zevo Smart Climate Monitoring™
+## Zevo Smart Global Climate Monitoring™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/df23e8d5-9157-47a8-8587-69cc2b60b8f6" />
 

@@ -6,6 +6,12 @@
 
 ---
 
+## Zevo Smart Enterprise Energy™ - Super Charging EV
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/65cad8db-e8bf-4c97-a8af-c580e988b33e" />
+
+---
+
 ## Zevo Smart Home Energy™ - One per Home Monitoring
 
 ---

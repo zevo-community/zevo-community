@@ -10,6 +10,12 @@
 
 ---
 
+## Zevo Corporation™, a leader in research and commercial prototyping.
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c536d12c-933e-4999-b1d8-f75d84e32a0c" />
+
+---
+
 ## Zevo Smart Global Climate Monitoring - One per Perimeter™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/37685c24-987f-429f-9073-2150e46ace05" />

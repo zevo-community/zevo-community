@@ -1,10 +1,10 @@
 ## For Haters: It looks like a lot of people in this round are going to pick up the coin and get a kick in the KU, KU, KU.
 
-## For Haters: Parece que muita gente nesta rodada vai apanhar a moeda e levar um chute na reba.
-
 ---
 
 ## Zevo Corporation, a leader in research and prototyping commercial.
+
+---
 
 ## Zevo Smart Home Energy™ - One per Home Monitoring
 

@@ -6,7 +6,7 @@
 
 ---
 
-<h3>Zevo Technologies Corporation, fully supports global, international and local law for all democratically constituted nations, Presidential Democracies,Parliamentary Democracies and Hybrid or Semi-Presidential Systems.</h3>
+<h3>Zevo Technologies Corporation, fully supports global, international and local law for all democratically constituted nations, Presidential Democracies, Parliamentary Democracies and Hybrid or Semi-Presidential Systems.</h3>
 
 ---
 

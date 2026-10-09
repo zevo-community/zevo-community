@@ -1,3 +1,9 @@
+## For Haters: Parece que muita gente nesta rodada vai apanhar a moeda e levar um chute na reba.
+
+## For Haters: It looks like a lot of people in this round are going to pick up the coin and get a kick in the ass.
+
+---
+
 ## Zevo Corporation, a leader in research and prototyping commercial.
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c536d12c-933e-4999-b1d8-f75d84e32a0c" />

@@ -1,3 +1,9 @@
+## Zevo AI-Driven Blind Glass Assistance Touch Braille Language™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/afd44bd9-4d8a-4785-b7ca-e2455621558f" />
+
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/bafbf7fe-e7fe-40e0-822a-5e4cfb512e65" />
 
 ---

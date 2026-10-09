@@ -1,8 +1,6 @@
-## How many Z-millions of Euros are we at now?
-
-## Em quantos Z-milhões de euros estamos agora? ???? AHAHHA
-
 ## This one goes out to the haters at Zevo Corporation.
+
+## How many Z-millions of Euros are we at now?
 
 ---
 

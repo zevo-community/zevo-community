@@ -6,11 +6,19 @@
 
 ## Zevo Corporation, a leader in research and prototyping commercial.
 
+---
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c536d12c-933e-4999-b1d8-f75d84e32a0c" />
 
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/96460ec1-cc3c-4ab2-b596-892a804bbef0" />
+
+---
+
+## Zevo Smart Energy Monitoring™ - One per Perimeter
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/b60041e7-920e-4613-9105-c64466ff04c5" />
 
 ---
 

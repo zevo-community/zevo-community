@@ -20,6 +20,10 @@
 
 ---
 
+<img width="640" height="425" alt="Image" src="https://github.com/user-attachments/assets/8e62af34-e40b-4252-8629-670cb72ceee8" />
+
+---
+
 <h3>Zevo Technologies Corporation™, fully supports global, international and local law for all democratically constituted nations, Presidential Democracies, Parliamentary Democracies and Hybrid or Semi-Presidential Systems.</h3>
 
 ---

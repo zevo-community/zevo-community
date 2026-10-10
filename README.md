@@ -4,6 +4,12 @@
 
 ---
 
+## Zevo Smart Supercharging and Zevo Smart Charging Surge Protector and Zevo smart energy-storage™ 
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/ec0e726d-6a79-42ae-be77-58520ae99b25" />
+
+---
+
 ## Zevo Smart Enterprise Energy™ - Super Charging EV
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/c3fd0f07-9bde-4de3-b319-105e73621521" />

@@ -4,6 +4,12 @@
 
 ---
 
+### Zevo Smart Supercharging Station™
+
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/de8f80f9-bcc4-40dc-881f-78a3fcdf59b8" />
+
+---
+
 ### Zevo Smart Supercharging Station and Zevo Smart Supercharging surge-protection™ 
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dd66a73d-b138-45a4-bff5-fb86c8d11d37" />

@@ -16,7 +16,7 @@
 
 ---
 
-<h3>Aqueles filhos da Urubu-Rei de esquerda acham que eu sou Kaiduro.<h3>
+<h3>Aqueles filhos de Urubu-Rei de esquerda acham que eu sou Kaiduro.<h3>
 
 ---
 

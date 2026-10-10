@@ -6,6 +6,8 @@
 
 ## Zevo Smart Supercharging Bay™ 
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/dd66a73d-b138-45a4-bff5-fb86c8d11d37" />
+
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/0b6008c3-57b2-4eab-a687-091fc49107f7" />
 
 ---

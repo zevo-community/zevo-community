@@ -12,6 +12,18 @@
 
 ---
 
+<h3>Any nation recognized by the UN as a democracy may submit a request for adjudication based on the *Manual of International Law: Collection of Instruments*.</h3>
+
+<h3>For cases of antisemitism, it must be proven in an international court that the individual is a descendant of Shem within four generations.</h3>
+
+---
+
+<h3>Qualquer nação reconhecida pela ONU como democracia pode apresentar um pedido de julgamento com base no *Manual de Direito Internacional: Coletânea de Instrumentos*.</h3>
+
+<h3>Em casos de antissemitismo, deve ser comprovado perante um tribunal internacional que o indivíduo é descendente de Sem em até quatro gerações.</h3>
+
+---
+
 <h3>THE INTERNATIONAL LAW HANDBOOK: COLLECTION OF INSTRUMENTS</h3>
 
 ---

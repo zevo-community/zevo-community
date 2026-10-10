@@ -12,11 +12,11 @@
 
 ---
 
-<h3>Those left-wing Urubu-King bastards think I'm a pushover.<h3>
+<h3>Those left-wing Urubu-King bastards think I'm a Kaiduro.<h3>
 
 ---
 
-<h3>Aqueles filhos de Urubu-Rei de esquerda acham que eu sou Kaiduro.<h3>
+<h3>Aqueles filhos de Urubu-Rei de esquerda acham que eu sou o Kaiduro.<h3>
 
 ---
 

@@ -4,15 +4,15 @@
 
 ---
 
-<h3>Zevo Technologies Corporation™, fully supports global, international and local law for all democratically constituted nations, Presidential Democracies, Parliamentary Democracies and Hybrid or Semi-Presidential Systems.</h3>
-
----
-
 <h3> HAHAHA, TRY TO CAPTURE ME, JUST TO SEE WHAT HAPPENS. HAHAHAHA </h3>
 
 ---
 
 <h3>HAHAHAH, TENTA ME CAPTURAR, SO PARA VER NO QUE VAI DAR. HAHAHAHA </h3>
+
+---
+
+<h3>Zevo Technologies Corporation™, fully supports global, international and local law for all democratically constituted nations, Presidential Democracies, Parliamentary Democracies and Hybrid or Semi-Presidential Systems.</h3>
 
 ---
 

@@ -12,7 +12,9 @@
 
 ---
 
-<h3>These loathsome, vulture-like leftists think I'm the toughest guy in the world.</h3>
+<h3>Those left-wing Urubu bastards think I'm a pushover.<h3>
+
+---
 
 <h3>Aqueles filhos da Urubu de esquerda acham que eu sou Kaiduro.<h3>
 

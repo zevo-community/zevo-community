@@ -4,6 +4,10 @@
 
 ---
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/2a05d3aa-3493-4db1-8a46-ae0c788c9023" />
+
+---
+
 ### Zevo Smart Supercharging Station™
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/a4de056a-e284-48ce-8aa0-4e7ab2857b7b" />

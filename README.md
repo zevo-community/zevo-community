@@ -2,6 +2,8 @@
 
 ### Zevo Technologies Corporation™, a leader in research and prototyping commercial.
 
+<img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/f9f84c48-7c77-4e55-b217-ed9961ae96b8" />
+
 ---
 
 <img width="832" height="448" alt="Image" src="https://github.com/user-attachments/assets/49d70339-84e5-4f1e-9c8e-2e4a450f7af5" />
